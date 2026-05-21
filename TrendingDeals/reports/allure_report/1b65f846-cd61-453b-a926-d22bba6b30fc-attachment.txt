@@ -1,0 +1,12 @@
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:47 Opening BestBuy Homepage
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:51 Opening Trending Deals page
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:55 Opening category: Laptops & Computers
+[32mINFO    [0m TrendingDealsLogger:base_page.py:23 Laptops & Computers page already opened
+[32mINFO    [0m TrendingDealsLogger:screenshot_util.py:23 Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_141557.png
+[32mINFO    [0m TrendingDealsLogger:category_page.py:21 Applying price filter Min:500 Max:100
+[32mINFO    [0m TrendingDealsLogger:category_page.py:41 Min Price:500 and Max Price:100 entered successfully
+[32mINFO    [0m TrendingDealsLogger:screenshot_util.py:23 Screenshot saved at: reports/screenshots\price_filter_500_100_20260521_141600.png
+[32mINFO    [0m TrendingDealsLogger:category_page.py:49 Clicking set price button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:53 Clicked on Set button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:63 Alert message: Minimum value cannot be greater than the maximum value.
+[32mINFO    [0m TrendingDealsLogger:category_page.py:69 Invalid range alert handled successfully

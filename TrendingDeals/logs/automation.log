@@ -1,0 +1,785 @@
+2026-05-19 07:55:30,122 - INFO - Starting Homepage Test
+2026-05-19 07:55:30,122 - INFO - Selecting United States region
+2026-05-19 07:55:43,329 - INFO - Verifying homepage URL
+2026-05-19 07:55:43,345 - INFO - Verifying homepage title
+2026-05-19 07:55:43,345 - INFO - Homepage test passed successfully
+2026-05-19 07:55:55,149 - INFO - Starting Trending Deals Test
+2026-05-19 07:55:55,149 - INFO - Selecting United States region
+2026-05-19 07:56:43,598 - INFO - Clicking Trending Deals See More
+2026-05-19 07:58:32,026 - INFO - Starting Homepage Test
+2026-05-19 07:58:32,026 - INFO - Selecting United States region
+2026-05-19 07:58:37,558 - INFO - Verifying homepage URL
+2026-05-19 07:58:37,909 - INFO - Verifying homepage title
+2026-05-19 07:58:37,965 - INFO - Homepage test passed successfully
+2026-05-19 07:58:44,501 - INFO - Starting Trending Deals Test
+2026-05-19 07:58:44,501 - INFO - Selecting United States region
+2026-05-19 07:58:49,097 - INFO - Clicking Trending Deals See More
+2026-05-19 08:08:44,600 - INFO - Starting Homepage Test
+2026-05-19 08:08:44,602 - INFO - Selecting United States region
+2026-05-19 08:09:06,196 - INFO - Verifying homepage URL
+2026-05-19 08:09:06,267 - INFO - Verifying homepage title
+2026-05-19 08:09:06,563 - INFO - BestBuy opened successfully
+2026-05-19 08:09:18,145 - INFO - Starting Trending Deals Test
+2026-05-19 08:09:18,145 - INFO - Selecting United States region
+2026-05-19 08:09:36,160 - INFO - Clicking Trending Deals See More
+2026-05-19 09:51:08,319 - INFO - Starting Homepage Test
+2026-05-19 09:51:08,320 - INFO - Selecting United States region
+2026-05-19 09:51:13,667 - INFO - United States region selected successfully
+2026-05-19 09:51:13,918 - INFO - Screenshot saved at: reports/screenshots\US_region_selected_20260519_095113.png
+2026-05-19 09:51:13,918 - INFO - Verifying homepage URL
+2026-05-19 09:51:13,949 - INFO - Homepage URL Verified successfully
+2026-05-19 09:51:13,950 - INFO - Verifying homepage title
+2026-05-19 09:51:15,016 - INFO - Homepage title Verified successfully
+2026-05-19 09:51:15,417 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260519_095115.png
+2026-05-19 09:51:15,417 - INFO - BestBuy opened successfully
+2026-05-19 09:52:49,717 - INFO - Starting Homepage Test
+2026-05-19 09:52:49,718 - INFO - Selecting United States region
+2026-05-19 09:52:50,175 - INFO - Screenshot saved at: reports/screenshots\US_region_selected_20260519_095249.png
+2026-05-19 09:52:54,207 - INFO - United States region selected successfully
+2026-05-19 09:52:54,208 - INFO - Verifying homepage URL
+2026-05-19 09:52:54,266 - INFO - Homepage URL Verified successfully
+2026-05-19 09:52:54,266 - INFO - Verifying homepage title
+2026-05-19 09:52:54,888 - INFO - Homepage title Verified successfully
+2026-05-19 09:52:55,204 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260519_095254.png
+2026-05-19 09:52:55,204 - INFO - BestBuy opened successfully
+2026-05-19 11:15:23,693 - INFO - Starting Test
+2026-05-19 11:15:23,693 - INFO - Selecting United States region
+2026-05-19 11:15:24,124 - INFO - Screenshot saved at: reports/screenshots\Selecting_US_region_20260519_111523.png
+2026-05-19 11:15:29,058 - INFO - Screenshot saved at: reports/screenshots\BestBuy_opened_20260519_111528.png
+2026-05-19 11:15:29,058 - INFO - United States region selected successfully
+2026-05-19 11:15:29,058 - INFO - Clicking Trending Deals See More
+2026-05-19 11:15:50,696 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260519_111549.png
+2026-05-19 11:15:50,696 - INFO - Successfully clicked on Trending Deals See more
+2026-05-19 11:15:51,489 - INFO - Screenshot saved at: reports/screenshots\clicking_on_Laptops_and_Computers_20260519_111550.png
+2026-05-19 11:15:51,489 - INFO - Clicking on Laptops & Computers category
+2026-05-19 11:50:20,116 - INFO - Starting Test
+2026-05-19 11:50:20,118 - INFO - Selecting United States region
+2026-05-19 11:50:20,576 - INFO - Screenshot saved at: reports/screenshots\Selecting_US_region_20260519_115020.png
+2026-05-19 11:50:26,890 - INFO - Screenshot saved at: reports/screenshots\BestBuy_opened_20260519_115025.png
+2026-05-19 11:50:26,890 - INFO - United States region selected successfully
+2026-05-19 11:50:26,891 - INFO - Clicking Trending Deals See More
+2026-05-19 11:50:41,193 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260519_115040.png
+2026-05-19 11:50:41,195 - INFO - Successfully clicked on Trending Deals See more
+2026-05-19 11:50:42,588 - INFO - Screenshot saved at: reports/screenshots\clicking_on_Laptops_and_Computers_20260519_115041.png
+2026-05-19 11:50:42,588 - INFO - Clicking on Laptops & Computers category
+2026-05-19 11:50:42,811 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260519_115042.png
+2026-05-19 11:50:42,811 - INFO - Laptops & Computers page already opened
+2026-05-19 11:50:42,811 - INFO - Laptops & Computers category clicked successfully
+2026-05-19 11:50:43,002 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_opened_20260519_115042.png
+2026-05-19 11:50:43,002 - INFO - Laptops & Computers page opened successfully
+2026-05-19 11:50:43,002 - INFO - ALL BASE PAGE TESTS PASSED
+2026-05-20 06:08:09,868 - INFO - Opening BestBuy Homepage
+2026-05-20 06:08:15,674 - INFO - Opening Trending Deals page
+2026-05-20 06:08:32,345 - INFO - Opening category: Laptops & Computers
+2026-05-20 06:08:33,494 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_060832.png
+2026-05-20 06:08:33,494 - INFO - Laptops & Computers page already opened
+2026-05-20 06:09:04,987 - ERROR - Test failed for Min:min_price Max:max_price
+2026-05-20 06:09:04,987 - ERROR - Message: 
+
+2026-05-20 06:25:43,029 - INFO - Opening BestBuy Homepage
+2026-05-20 06:25:49,614 - INFO - Opening Trending Deals page
+2026-05-20 06:26:07,605 - INFO - Opening category: Laptops & Computers
+2026-05-20 06:26:09,921 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_062608.png
+2026-05-20 06:26:09,921 - INFO - Laptops & Computers page already opened
+2026-05-20 06:26:41,622 - ERROR - Test failed for Min:min_price Max:max_price
+2026-05-20 06:26:41,622 - ERROR - Message: 
+
+2026-05-20 06:32:55,742 - INFO - Opening BestBuy Homepage
+2026-05-20 06:33:01,215 - INFO - Opening Trending Deals page
+2026-05-20 06:59:01,198 - INFO - Opening BestBuy Homepage
+2026-05-20 06:59:07,571 - INFO - Opening Trending Deals page
+2026-05-20 06:59:16,022 - INFO - Opening category: Laptops & Computers
+2026-05-20 06:59:17,559 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_065916.png
+2026-05-20 06:59:17,559 - INFO - Laptops & Computers page already opened
+2026-05-20 06:59:17,559 - ERROR - Test failed for Min:-100 Max:500
+2026-05-20 06:59:17,559 - ERROR - name 'logger' is not defined
+2026-05-20 06:59:54,735 - INFO - Opening BestBuy Homepage
+2026-05-20 07:00:01,095 - INFO - Opening Trending Deals page
+2026-05-20 07:38:45,115 - INFO - Opening BestBuy Homepage
+2026-05-20 07:38:51,796 - INFO - Opening Trending Deals page
+2026-05-20 07:39:01,885 - INFO - Opening category: Laptops & Computers
+2026-05-20 07:39:03,393 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_073902.png
+2026-05-20 07:39:03,393 - INFO - Laptops & Computers page already opened
+2026-05-20 07:39:03,393 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 07:39:05,112 - INFO - Min Price:<selenium.webdriver.remote.webelement.WebElement (session="29b429a3cc5dbe3c3982f8a020abf8f1", element="f.1B957B2DBC10CD5C91643C3B9586FC8E.d.5C5DF6C650BBC90D5E919CD0E2266509.e.10184")> and Max Price:500 entered successfully
+2026-05-20 07:39:05,318 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_073905.png
+2026-05-20 07:39:05,600 - INFO - Clicked on Set Price button
+2026-05-20 07:39:05,600 - INFO - Price filter applied
+2026-05-20 12:01:35,486 - INFO - Opening BestBuy Homepage
+2026-05-20 12:01:41,592 - INFO - Opening Trending Deals page
+2026-05-20 12:01:51,459 - INFO - Opening category: Laptops & Computers
+2026-05-20 12:01:52,814 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_120151.png
+2026-05-20 12:01:52,814 - INFO - Laptops & Computers page already opened
+2026-05-20 12:01:52,814 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 12:01:54,162 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 12:01:54,434 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_120154.png
+2026-05-20 12:01:54,674 - INFO - Clicked on Set Price button
+2026-05-20 12:01:54,674 - INFO - Price filter applied
+2026-05-20 12:01:54,968 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260520_120154.png
+2026-05-20 12:01:54,968 - ERROR - Test failed for Min:500 Max:100
+2026-05-20 12:01:54,968 - ERROR - Alert Text: Minimum value cannot be greater than the maximum value.
+Message: unexpected alert open: {Alert text : Minimum value cannot be greater than the maximum value.}
+  (Session info: chrome=148.0.7778.169)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x8fb593+105d3]
+	chromedriver!GetHandleVerifier [0x8fb6c4+10704]
+	chromedriver!(No symbol) [0x701ea0]
+	chromedriver!(No symbol) [0x78b177]
+	chromedriver!(No symbol) [0x76d516]
+	chromedriver!(No symbol) [0x7408e9]
+	chromedriver!(No symbol) [0x7416a4]
+	chromedriver!GetHandleVerifier [0xb83014+298054]
+	chromedriver!GetHandleVerifier [0xb7e603+293643]
+	chromedriver!GetHandleVerifier [0xb9ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0x9154e8+2a528]
+	chromedriver!GetHandleVerifier [0x91cd1d+31d5d]
+	chromedriver!GetHandleVerifier [0x903e68+18ea8]
+	chromedriver!GetHandleVerifier [0x904015+19055]
+	chromedriver!GetHandleVerifier [0x8ed65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x75195d49+19]
+	ntdll!RtlInitializeExceptionChain [0x76f8d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x76f8d7c1+231]
+
+2026-05-20 12:01:55,219 - INFO - Opening BestBuy Homepage
+2026-05-20 12:02:12,025 - INFO - Opening BestBuy Homepage
+2026-05-20 12:02:27,518 - INFO - Opening BestBuy Homepage
+2026-05-20 12:02:43,119 - INFO - Opening BestBuy Homepage
+2026-05-20 12:02:58,640 - INFO - Opening BestBuy Homepage
+2026-05-20 12:12:15,245 - INFO - Opening BestBuy Homepage
+2026-05-20 12:12:21,760 - INFO - Opening Trending Deals page
+2026-05-20 12:12:30,112 - INFO - Opening category: Laptops & Computers
+2026-05-20 12:12:32,284 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_121230.png
+2026-05-20 12:12:32,284 - INFO - Laptops & Computers page already opened
+2026-05-20 12:12:32,284 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 12:12:32,941 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 12:12:33,089 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_121232.png
+2026-05-20 12:12:33,234 - INFO - Clicked on Set button
+2026-05-20 12:12:33,238 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 12:12:33,247 - INFO - Invalid range alert handled successfully
+2026-05-20 12:12:35,248 - INFO - Invalid range test passed
+2026-05-20 12:12:35,252 - INFO - Opening BestBuy Homepage
+2026-05-20 12:12:54,042 - INFO - Opening BestBuy Homepage
+2026-05-20 12:13:12,895 - INFO - Opening BestBuy Homepage
+2026-05-20 12:13:32,091 - INFO - Opening BestBuy Homepage
+2026-05-20 12:13:50,651 - INFO - Opening BestBuy Homepage
+2026-05-20 12:30:09,875 - INFO - Opening BestBuy Homepage
+2026-05-20 12:30:18,145 - INFO - Opening Trending Deals page
+2026-05-20 12:30:49,705 - INFO - Opening category: Laptops & Computers
+2026-05-20 12:30:51,092 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_123050.png
+2026-05-20 12:30:51,092 - INFO - Laptops & Computers page already opened
+2026-05-20 12:30:51,092 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 12:30:52,885 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 12:30:53,101 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_123052.png
+2026-05-20 12:30:53,345 - INFO - Clicked on Set button
+2026-05-20 12:30:53,350 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 12:30:53,360 - INFO - Invalid range alert handled successfully
+2026-05-20 12:30:55,366 - INFO - Refreshing category page
+2026-05-20 12:32:55,796 - INFO - Refreshing category page
+2026-05-20 12:34:56,169 - INFO - Refreshing category page
+2026-05-20 12:35:50,888 - INFO - Applying price filter Min:0 Max:100
+2026-05-20 12:35:51,798 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-20 12:35:51,981 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260520_123551.png
+2026-05-20 12:35:52,382 - INFO - Clicked on Set button
+2026-05-20 12:35:52,486 - INFO - Valid price filter applied successfully
+2026-05-20 12:35:52,492 - INFO - Refreshing category page
+2026-05-20 12:35:58,496 - INFO - Applying price filter Min:100 Max:1000
+2026-05-20 12:35:59,547 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-20 12:35:59,734 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260520_123559.png
+2026-05-20 12:35:59,932 - INFO - Clicked on Set button
+2026-05-20 12:36:00,015 - INFO - Valid price filter applied successfully
+2026-05-20 12:36:00,019 - INFO - Refreshing category page
+2026-05-20 12:36:05,220 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 12:36:06,218 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 12:36:06,396 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_123606.png
+2026-05-20 12:36:06,861 - INFO - Clicked on Set button
+2026-05-20 12:36:07,045 - INFO - Valid price filter applied successfully
+2026-05-20 12:36:07,045 - INFO - Executing add to cart flow for final positive dataset
+2026-05-20 12:36:37,453 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260520_123637.png
+2026-05-20 12:36:37,453 - ERROR - Test failed for Min:100 Max:500
+2026-05-20 12:36:37,453 - ERROR - Message: 
+
+2026-05-20 12:52:42,873 - INFO - Opening BestBuy Homepage
+2026-05-20 12:52:50,241 - INFO - Opening Trending Deals page
+2026-05-20 12:53:00,637 - INFO - Opening category: Laptops & Computers
+2026-05-20 12:53:01,938 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_125300.png
+2026-05-20 12:53:01,938 - INFO - Laptops & Computers page already opened
+2026-05-20 12:53:01,939 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 12:53:03,888 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 12:53:04,069 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_125303.png
+2026-05-20 12:53:04,255 - INFO - Clicked on Set button
+2026-05-20 12:53:04,259 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 12:53:04,268 - INFO - Invalid range alert handled successfully
+2026-05-20 12:53:06,273 - INFO - Refreshing category page
+2026-05-20 12:53:13,267 - INFO - Applying price filter Min:100 Max:0
+2026-05-20 12:53:14,402 - INFO - Min Price:100 and Max Price:0 entered successfully
+2026-05-20 12:53:14,608 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_0_20260520_125314.png
+2026-05-20 12:53:14,788 - INFO - Clicked on Set button
+2026-05-20 12:53:14,793 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 12:53:14,803 - INFO - Invalid range alert handled successfully
+2026-05-20 12:53:16,807 - INFO - Refreshing category page
+2026-05-20 12:53:21,361 - INFO - Applying price filter Min:0 Max:0
+2026-05-20 12:53:22,465 - INFO - Min Price:0 and Max Price:0 entered successfully
+2026-05-20 12:53:22,691 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_0_20260520_125322.png
+2026-05-20 12:53:23,097 - INFO - Clicked on Set button
+2026-05-20 12:53:28,141 - INFO - Products found for 0-0 range: 0
+2026-05-20 12:53:28,141 - INFO - No products displayed for 0-0 range
+2026-05-20 12:53:28,146 - INFO - Refreshing category page
+2026-05-20 12:53:34,425 - INFO - Applying price filter Min:0 Max:100
+2026-05-20 12:53:35,504 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-20 12:53:35,703 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260520_125335.png
+2026-05-20 12:53:35,982 - INFO - Clicked on Set button
+2026-05-20 12:53:36,072 - INFO - Valid price filter applied successfully
+2026-05-20 12:53:36,078 - INFO - Refreshing category page
+2026-05-20 12:53:40,705 - INFO - Applying price filter Min:100 Max:1000
+2026-05-20 12:53:41,686 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-20 12:53:41,853 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260520_125341.png
+2026-05-20 12:53:42,095 - INFO - Clicked on Set button
+2026-05-20 12:53:42,202 - INFO - Valid price filter applied successfully
+2026-05-20 12:53:42,206 - INFO - Refreshing category page
+2026-05-20 12:53:46,181 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 12:53:46,942 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 12:53:47,106 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_125346.png
+2026-05-20 12:53:47,358 - INFO - Clicked on Set button
+2026-05-20 12:53:47,451 - INFO - Valid price filter applied successfully
+2026-05-20 12:53:47,451 - INFO - Executing add to cart flow for final positive dataset
+2026-05-20 12:54:17,979 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260520_125417.png
+2026-05-20 12:54:17,980 - ERROR - Test failed for Min:100 Max:500
+2026-05-20 12:54:17,980 - ERROR - Message: 
+
+2026-05-20 13:12:45,823 - INFO - Opening BestBuy Homepage
+2026-05-20 13:12:50,302 - INFO - Opening Trending Deals page
+2026-05-20 13:13:07,538 - INFO - Opening category: Laptops & Computers
+2026-05-20 13:13:08,723 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_131307.png
+2026-05-20 13:13:08,723 - INFO - Laptops & Computers page already opened
+2026-05-20 13:13:08,723 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 13:13:09,630 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 13:13:09,782 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_131309.png
+2026-05-20 13:13:10,054 - INFO - Clicked on Set button
+2026-05-20 13:13:10,058 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 13:13:10,067 - INFO - Invalid range alert handled successfully
+2026-05-20 13:13:12,072 - INFO - Refreshing category page
+2026-05-20 13:15:12,669 - INFO - Refreshing category page
+2026-05-20 13:17:12,877 - INFO - Refreshing category page
+2026-05-20 13:18:20,141 - INFO - Applying price filter Min:0 Max:100
+2026-05-20 13:18:20,967 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-20 13:18:21,117 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260520_131820.png
+2026-05-20 13:18:21,353 - INFO - Clicked on Set button
+2026-05-20 13:18:21,443 - INFO - Valid price filter applied successfully
+2026-05-20 13:18:21,448 - INFO - Refreshing category page
+2026-05-20 13:18:26,039 - INFO - Applying price filter Min:100 Max:1000
+2026-05-20 13:18:26,802 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-20 13:18:26,959 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260520_131826.png
+2026-05-20 13:18:27,168 - INFO - Clicked on Set button
+2026-05-20 13:18:27,249 - INFO - Valid price filter applied successfully
+2026-05-20 13:18:27,253 - INFO - Refreshing category page
+2026-05-20 13:18:31,233 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 13:18:31,960 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 13:18:32,128 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_131831.png
+2026-05-20 13:18:32,314 - INFO - Clicked on Set button
+2026-05-20 13:18:32,399 - INFO - Valid price filter applied successfully
+2026-05-20 13:18:32,399 - INFO - Executing add to cart flow for final positive dataset
+2026-05-20 13:18:32,399 - INFO - Adding product to cart
+2026-05-20 13:19:12,684 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260520_131912.png
+2026-05-20 13:19:12,684 - ERROR - Test failed for Min:100 Max:500
+2026-05-20 13:19:12,684 - ERROR - Message: 
+
+2026-05-20 13:49:45,084 - INFO - Opening BestBuy Homepage
+2026-05-20 13:49:50,415 - INFO - Opening Trending Deals page
+2026-05-20 13:50:08,983 - INFO - Opening category: Laptops & Computers
+2026-05-20 13:50:10,078 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_135009.png
+2026-05-20 13:50:10,078 - INFO - Laptops & Computers page already opened
+2026-05-20 13:50:10,078 - INFO - Applying price filter Min:500 Max:100
+2026-05-20 13:50:10,964 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-20 13:50:11,132 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260520_135010.png
+2026-05-20 13:50:11,351 - INFO - Clicked on Set button
+2026-05-20 13:50:11,356 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-20 13:50:11,364 - INFO - Invalid range alert handled successfully
+2026-05-20 13:50:13,369 - INFO - Refreshing category page
+2026-05-20 13:52:13,741 - INFO - Refreshing category page
+2026-05-20 13:54:13,945 - INFO - Refreshing category page
+2026-05-20 13:55:18,085 - INFO - Applying price filter Min:0 Max:100
+2026-05-20 13:55:18,749 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-20 13:55:18,916 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260520_135518.png
+2026-05-20 13:55:19,135 - INFO - Clicked on Set button
+2026-05-20 13:55:19,222 - INFO - Valid price filter applied successfully
+2026-05-20 13:55:19,226 - INFO - Refreshing category page
+2026-05-20 13:55:23,029 - INFO - Applying price filter Min:100 Max:1000
+2026-05-20 13:55:23,640 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-20 13:55:23,792 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260520_135523.png
+2026-05-20 13:55:23,998 - INFO - Clicked on Set button
+2026-05-20 13:55:24,081 - INFO - Valid price filter applied successfully
+2026-05-20 13:55:24,084 - INFO - Refreshing category page
+2026-05-20 13:55:27,988 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 13:55:28,759 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 13:55:28,906 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_135528.png
+2026-05-20 13:55:29,100 - INFO - Clicked on Set button
+2026-05-20 13:55:29,174 - INFO - Valid price filter applied successfully
+2026-05-20 13:55:29,174 - INFO - Executing add to cart flow for final positive dataset
+2026-05-20 13:55:29,174 - INFO - Adding product to cart
+2026-05-20 13:56:09,416 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260520_135609.png
+2026-05-20 13:56:09,416 - ERROR - Test failed for Min:100 Max:500
+2026-05-20 13:56:09,416 - ERROR - Message: 
+2026-05-20 17:30:37,051 - INFO - Opening BestBuy Homepage
+2026-05-20 17:30:44,976 - INFO - Opening Trending Deals page
+2026-05-20 17:30:59,411 - INFO - Opening category: Laptops & Computers
+2026-05-20 17:31:00,442 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_173059.png
+2026-05-20 17:31:00,443 - INFO - Laptops & Computers page already opened
+2026-05-20 17:31:00,443 - INFO - Applying valid price filter
+2026-05-20 17:31:00,443 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 17:31:01,301 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 17:31:01,499 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_173101.png
+2026-05-20 17:31:01,711 - INFO - Clicked on Set button
+2026-05-20 17:31:01,785 - INFO - Valid price filter applied successfully
+2026-05-20 17:31:01,785 - INFO - Adding product to cart
+2026-05-20 17:31:01,785 - INFO - Adding product to cart
+2026-05-20 17:31:38,912 - INFO - Found 1 add to cart buttons
+2026-05-20 17:31:38,971 - INFO - Product added successfully
+2026-05-20 17:31:39,186 - INFO - Screenshot saved at: reports/screenshots\product_added_20260520_173138.png
+2026-05-20 17:31:39,186 - INFO - Opening cart page
+2026-05-20 17:36:39,671 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_173339.png
+2026-05-20 17:36:39,671 - ERROR - Cart page test failed
+2026-05-20 17:36:39,671 - ERROR - HTTPConnectionPool(host='localhost', port=55539): Read timed out. (read timeout=120)
+2026-05-20 20:35:27,026 - INFO - Opening BestBuy Homepage
+2026-05-20 20:35:39,086 - INFO - Opening Trending Deals page
+2026-05-20 20:35:53,016 - INFO - Opening category: Laptops & Computers
+2026-05-20 20:35:54,323 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_203553.png
+2026-05-20 20:35:54,323 - INFO - Laptops & Computers page already opened
+2026-05-20 20:35:54,323 - INFO - Applying valid price filter
+2026-05-20 20:35:54,323 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 20:35:55,870 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 20:35:56,119 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_203555.png
+2026-05-20 20:35:56,401 - INFO - Clicked on Set button
+2026-05-20 20:35:56,483 - INFO - Valid price filter applied successfully
+2026-05-20 20:35:56,483 - INFO - Adding product to cart
+2026-05-20 20:35:56,486 - INFO - Adding product to cart
+2026-05-20 20:36:33,289 - INFO - Found 1 add to cart buttons
+2026-05-20 20:36:33,382 - INFO - Product added successfully
+2026-05-20 20:36:33,649 - INFO - Screenshot saved at: reports/screenshots\product_added_20260520_203633.png
+2026-05-20 20:36:33,649 - INFO - Opening cart page
+2026-05-20 20:36:50,567 - INFO - Screenshot saved at: reports/screenshots\cart_page_opened_20260520_203650.png
+2026-05-20 20:36:50,567 - INFO - Cart page opened
+2026-05-20 20:36:50,567 - INFO - Increasing product quantity
+2026-05-20 20:36:50,567 - INFO - Updating product quantity to 2
+2026-05-20 20:36:50,746 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_203650.png
+2026-05-20 20:36:50,746 - ERROR - Cart page test failed
+2026-05-20 20:36:50,746 - ERROR - name 'wait' is not defined
+2026-05-20 20:52:42,158 - INFO - Opening BestBuy Homepage
+2026-05-20 20:52:55,121 - INFO - Opening Trending Deals page
+2026-05-20 20:53:07,345 - INFO - Opening category: Laptops & Computers
+2026-05-20 20:53:08,358 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_205307.png
+2026-05-20 20:53:08,358 - INFO - Laptops & Computers page already opened
+2026-05-20 20:53:08,358 - INFO - Applying valid price filter
+2026-05-20 20:53:08,358 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 20:53:08,965 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 20:53:09,144 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_205308.png
+2026-05-20 20:53:09,368 - INFO - Clicked on Set button
+2026-05-20 20:53:09,435 - INFO - Valid price filter applied successfully
+2026-05-20 20:53:09,435 - INFO - Adding product to cart
+2026-05-20 20:53:09,435 - INFO - Adding product to cart
+2026-05-20 20:53:47,579 - INFO - Found 1 add to cart buttons
+2026-05-20 20:53:47,627 - INFO - Product added successfully
+2026-05-20 20:53:47,803 - INFO - Screenshot saved at: reports/screenshots\product_added_20260520_205347.png
+2026-05-20 20:53:47,803 - INFO - Opening cart page
+2026-05-20 20:58:48,236 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_205547.png
+2026-05-20 20:58:48,237 - ERROR - Cart page test failed
+2026-05-20 20:58:48,237 - ERROR - HTTPConnectionPool(host='localhost', port=60102): Read timed out. (read timeout=120)
+2026-05-20 21:24:51,516 - INFO - Opening BestBuy Homepage
+2026-05-20 21:25:00,912 - INFO - Opening Trending Deals page
+2026-05-20 21:25:13,924 - INFO - Opening category: Laptops & Computers
+2026-05-20 21:25:15,051 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_212514.png
+2026-05-20 21:25:15,051 - INFO - Laptops & Computers page already opened
+2026-05-20 21:25:15,051 - INFO - Applying valid price filter
+2026-05-20 21:25:15,051 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 21:25:15,979 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 21:25:16,139 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_212515.png
+2026-05-20 21:25:16,430 - INFO - Clicked on Set button
+2026-05-20 21:25:16,543 - INFO - Valid price filter applied successfully
+2026-05-20 21:25:16,544 - INFO - Adding product to cart
+2026-05-20 21:25:16,544 - INFO - Adding product to cart
+2026-05-20 21:25:54,137 - INFO - Found 1 add to cart buttons
+2026-05-20 21:25:54,190 - INFO - Product added successfully
+2026-05-20 21:25:54,356 - INFO - Screenshot saved at: reports/screenshots\product_added_20260520_212554.png
+2026-05-20 21:25:54,356 - INFO - Opening cart page
+2026-05-20 21:30:54,813 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_212754.png
+2026-05-20 21:30:54,813 - ERROR - Cart page test failed
+2026-05-20 21:30:54,813 - ERROR - HTTPConnectionPool(host='localhost', port=55235): Read timed out. (read timeout=120)
+2026-05-20 22:17:43,448 - INFO - Opening BestBuy Homepage
+2026-05-20 22:17:52,363 - INFO - Opening Trending Deals page
+2026-05-20 22:18:11,809 - INFO - Opening category: Laptops & Computers
+2026-05-20 22:18:13,008 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_221812.png
+2026-05-20 22:18:13,008 - INFO - Laptops & Computers page already opened
+2026-05-20 22:18:13,008 - INFO - Applying valid price filter
+2026-05-20 22:18:13,008 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 22:18:13,842 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 22:18:14,025 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_221813.png
+2026-05-20 22:18:14,237 - INFO - Clicked on Set button
+2026-05-20 22:18:14,340 - INFO - Valid price filter applied successfully
+2026-05-20 22:18:14,341 - INFO - Adding product to cart
+2026-05-20 22:18:14,341 - INFO - Adding product to cart
+2026-05-20 22:18:54,633 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_221854.png
+2026-05-20 22:18:54,633 - ERROR - Cart page test failed
+2026-05-20 22:18:54,633 - ERROR - Message: 
+
+2026-05-20 22:25:55,137 - INFO - Opening BestBuy Homepage
+2026-05-20 22:26:05,264 - INFO - Opening Trending Deals page
+2026-05-20 23:35:03,021 - INFO - Opening BestBuy Homepage
+2026-05-20 23:35:16,551 - INFO - Opening Trending Deals page
+2026-05-20 23:35:31,594 - INFO - Opening category: Laptops & Computers
+2026-05-20 23:35:32,929 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260520_233531.png
+2026-05-20 23:35:32,929 - INFO - Laptops & Computers page already opened
+2026-05-20 23:35:32,931 - INFO - Applying valid price filter
+2026-05-20 23:35:32,931 - INFO - Applying price filter Min:100 Max:500
+2026-05-20 23:35:34,574 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-20 23:35:34,773 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260520_233534.png
+2026-05-20 23:35:35,069 - INFO - Clicked on Set button
+2026-05-20 23:35:35,193 - INFO - Valid price filter applied successfully
+2026-05-20 23:35:35,193 - INFO - Adding product to cart
+2026-05-20 23:35:35,193 - INFO - Adding product to cart
+2026-05-20 23:36:12,651 - INFO - Found 1 add to cart buttons
+2026-05-20 23:36:12,774 - INFO - Product added successfully
+2026-05-20 23:36:13,026 - INFO - Screenshot saved at: reports/screenshots\product_added_20260520_233612.png
+2026-05-20 23:36:13,026 - INFO - Opening cart page
+2026-05-20 23:41:13,829 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260520_233813.png
+2026-05-20 23:41:13,829 - ERROR - Cart page test failed
+2026-05-20 23:41:13,829 - ERROR - HTTPConnectionPool(host='localhost', port=64622): Read timed out. (read timeout=120)
+2026-05-21 06:16:45,138 - INFO - Opening BestBuy Homepage
+2026-05-21 06:17:05,925 - INFO - Opening Trending Deals page
+2026-05-21 06:17:20,210 - INFO - Opening category: Laptops & Computers
+2026-05-21 06:17:21,559 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_061720.png
+2026-05-21 06:17:21,559 - INFO - Laptops & Computers page already opened
+2026-05-21 06:17:21,559 - INFO - Applying valid price filter
+2026-05-21 06:17:21,559 - INFO - Applying price filter Min:100 Max:500
+2026-05-21 06:17:22,459 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-21 06:17:22,566 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260521_061722.png
+2026-05-21 06:17:22,776 - INFO - Clicked on Set button
+2026-05-21 06:17:22,878 - INFO - Valid price filter applied successfully
+2026-05-21 06:17:22,878 - INFO - Adding product to cart
+2026-05-21 06:17:22,878 - INFO - Adding product to cart
+2026-05-21 06:18:03,087 - INFO - Screenshot saved at: reports/screenshots\cart_page_timeout_20260521_061802.png
+2026-05-21 06:18:03,087 - ERROR - Cart/Checkout page loading timeout
+2026-05-21 06:37:36,624 - INFO - Opening BestBuy Homepage
+2026-05-21 06:37:48,221 - INFO - Opening Trending Deals page
+2026-05-21 06:38:01,858 - INFO - Opening category: Laptops & Computers
+2026-05-21 06:38:02,958 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_063802.png
+2026-05-21 06:38:02,958 - INFO - Laptops & Computers page already opened
+2026-05-21 06:38:02,958 - INFO - Applying valid price filter
+2026-05-21 06:38:02,958 - INFO - Applying price filter Min:100 Max:500
+2026-05-21 06:38:03,877 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-21 06:38:04,068 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260521_063803.png
+2026-05-21 06:38:04,325 - INFO - Clicked on Set button
+2026-05-21 06:38:04,437 - INFO - Valid price filter applied successfully
+2026-05-21 06:38:04,437 - INFO - Adding product to cart
+2026-05-21 06:38:04,437 - INFO - Adding product to cart
+2026-05-21 06:38:51,393 - INFO - Found 1 add to cart buttons
+2026-05-21 06:38:53,455 - INFO - Product added successfully
+2026-05-21 06:38:53,691 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_063853.png
+2026-05-21 06:38:53,928 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_063853.png
+2026-05-21 06:38:53,928 - ERROR - Cart page test failed
+2026-05-21 06:38:53,928 - ERROR - Unable to click any Add to Cart button
+2026-05-21 07:00:34,143 - INFO - Opening BestBuy Homepage
+2026-05-21 07:00:54,208 - INFO - Opening Trending Deals page
+2026-05-21 07:01:10,922 - INFO - Opening category: Laptops & Computers
+2026-05-21 07:01:12,023 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_070111.png
+2026-05-21 07:01:12,023 - INFO - Laptops & Computers page already opened
+2026-05-21 07:01:12,023 - INFO - Applying valid price filter
+2026-05-21 07:01:12,023 - INFO - Applying price filter Min:100 Max:500
+2026-05-21 07:01:12,867 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-21 07:01:12,993 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260521_070112.png
+2026-05-21 07:01:13,207 - INFO - Clicked on Set button
+2026-05-21 07:01:13,284 - INFO - Valid price filter applied successfully
+2026-05-21 07:01:13,284 - INFO - Adding product to cart
+2026-05-21 07:01:13,284 - INFO - Adding product to cart
+2026-05-21 07:01:48,849 - INFO - Found 1 add to cart buttons
+2026-05-21 07:01:50,903 - INFO - Product added successfully
+2026-05-21 07:01:51,106 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_070150.png
+2026-05-21 07:01:51,106 - INFO - Opening cart page
+2026-05-21 07:06:51,577 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_070351.png
+2026-05-21 07:06:51,577 - ERROR - Cart page test failed
+2026-05-21 07:06:51,577 - ERROR - HTTPConnectionPool(host='localhost', port=63124): Read timed out. (read timeout=120)
+2026-05-21 07:40:49,049 - INFO - Opening BestBuy Homepage
+2026-05-21 07:40:59,068 - INFO - Opening Trending Deals page
+2026-05-21 07:41:12,450 - INFO - Opening category: Laptops & Computers
+2026-05-21 07:41:13,754 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_074112.png
+2026-05-21 07:41:13,754 - INFO - Laptops & Computers page already opened
+2026-05-21 07:41:13,754 - INFO - Applying valid price filter
+2026-05-21 07:41:13,754 - INFO - Applying price filter Min:100 Max:500
+2026-05-21 07:41:15,347 - INFO - Min Price:100 and Max Price:500 entered successfully
+2026-05-21 07:41:15,601 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_500_20260521_074115.png
+2026-05-21 07:41:15,901 - INFO - Clicked on Set button
+2026-05-21 07:41:16,030 - INFO - Valid price filter applied successfully
+2026-05-21 07:41:16,030 - INFO - Adding product to cart
+2026-05-21 07:41:16,030 - INFO - Adding product to cart
+2026-05-21 07:41:54,110 - INFO - Found 1 add to cart buttons
+2026-05-21 07:41:56,167 - INFO - Product added successfully
+2026-05-21 07:41:56,472 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_074156.png
+2026-05-21 07:41:56,472 - INFO - Opening cart page
+2026-05-21 07:46:57,320 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_074356.png
+2026-05-21 07:46:57,320 - ERROR - Cart page test failed
+2026-05-21 07:46:57,320 - ERROR - HTTPConnectionPool(host='localhost', port=64206): Read timed out. (read timeout=120)
+2026-05-21 10:43:31,210 - INFO - Opening BestBuy Homepage
+2026-05-21 10:43:52,035 - INFO - Opening Trending Deals page
+2026-05-21 10:44:10,798 - INFO - Opening category: Laptops & Computers
+2026-05-21 10:44:11,109 - INFO - Laptops & Computers page already opened
+2026-05-21 10:44:12,314 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_104411.png
+2026-05-21 10:44:12,314 - INFO - Applying price filter Min:500 Max:100
+2026-05-21 10:44:13,709 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-21 10:44:13,969 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260521_104413.png
+2026-05-21 10:44:14,017 - INFO - Clicking set price button
+2026-05-21 10:44:14,197 - INFO - Clicked on Set button
+2026-05-21 10:44:14,200 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-21 10:44:14,210 - INFO - Invalid range alert handled successfully
+2026-05-21 10:44:14,216 - INFO - Refreshing category page
+2026-05-21 10:44:25,408 - INFO - Applying price filter Min:100 Max:0
+2026-05-21 10:44:26,404 - INFO - Min Price:100 and Max Price:0 entered successfully
+2026-05-21 10:44:26,837 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_0_20260521_104426.png
+2026-05-21 10:44:26,892 - INFO - Clicking set price button
+2026-05-21 10:44:27,099 - INFO - Clicked on Set button
+2026-05-21 10:44:27,105 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-21 10:44:27,122 - INFO - Invalid range alert handled successfully
+2026-05-21 10:44:27,123 - INFO - Refreshing category page
+2026-05-21 10:44:32,473 - INFO - Applying price filter Min:0 Max:0
+2026-05-21 10:44:33,567 - INFO - Min Price:0 and Max Price:0 entered successfully
+2026-05-21 10:44:33,774 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_0_20260521_104433.png
+2026-05-21 10:44:33,815 - INFO - Clicking set price button
+2026-05-21 10:44:34,029 - INFO - Clicked on Set button
+2026-05-21 10:44:34,136 - INFO - Products found for 0-0 range: 0
+2026-05-21 10:44:34,136 - INFO - No products displayed for 0-0 range
+2026-05-21 10:44:34,141 - INFO - Refreshing category page
+2026-05-21 10:44:39,234 - INFO - Applying price filter Min:0 Max:100
+2026-05-21 10:44:40,412 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-21 10:44:40,656 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260521_104440.png
+2026-05-21 10:44:40,691 - INFO - Clicking set price button
+2026-05-21 10:44:40,982 - INFO - Clicked on Set button
+2026-05-21 10:44:41,084 - INFO - Valid price filter applied successfully
+2026-05-21 10:44:41,089 - INFO - Refreshing category page
+2026-05-21 10:44:46,263 - INFO - Applying price filter Min:100 Max:1000
+2026-05-21 10:44:47,369 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-21 10:44:47,569 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260521_104447.png
+2026-05-21 10:44:47,607 - INFO - Clicking set price button
+2026-05-21 10:44:47,973 - INFO - Clicked on Set button
+2026-05-21 10:44:48,138 - INFO - Valid price filter applied successfully
+2026-05-21 10:44:48,143 - INFO - Refreshing category page
+2026-05-21 10:44:54,275 - INFO - Applying price filter Min:500 Max:2000
+2026-05-21 10:44:55,429 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-21 10:44:55,683 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260521_104455.png
+2026-05-21 10:44:55,716 - INFO - Clicking set price button
+2026-05-21 10:44:56,308 - INFO - Clicked on Set button
+2026-05-21 10:44:56,417 - INFO - Valid price filter applied successfully
+2026-05-21 10:44:56,417 - INFO - Executing add to cart flow for final positive dataset
+2026-05-21 10:45:33,668 - INFO - Found 1 add to cart buttons
+2026-05-21 10:45:35,681 - INFO - Clicking on Add to cart button
+2026-05-21 10:45:35,721 - INFO - Clicked on Add to cart button
+2026-05-21 10:45:35,721 - INFO - Product added successfully
+2026-05-21 10:45:35,991 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_104535.png
+2026-05-21 10:45:36,272 - INFO - Screenshot saved at: reports/screenshots\category_test_failed_20260521_104535.png
+2026-05-21 10:45:36,272 - ERROR - Test failed for Min:500 Max:2000
+2026-05-21 10:45:36,272 - ERROR - 'CategoryPage' object has no attribute 'open_cart'
+2026-05-21 12:03:11,126 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-21 12:03:11,127 - INFO - Selecting Region
+2026-05-21 12:03:11,560 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260521_120311.png
+2026-05-21 12:03:34,816 - INFO - United States Region Selected
+2026-05-21 12:03:34,816 - INFO - Opening BestBuy
+2026-05-21 12:03:34,816 - INFO - Verifying homepage title
+2026-05-21 12:03:34,933 - INFO - Homepage title Verified successfully
+2026-05-21 12:03:34,933 - INFO - BestBuy opened successfully
+2026-05-21 12:03:35,811 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260521_120334.png
+2026-05-21 12:03:35,811 - INFO - Opening Trending Deals page
+2026-05-21 12:03:35,812 - INFO - Clicking on see more in Trending Deals Section
+2026-05-21 12:03:56,205 - INFO - Clicked on see more in Trending Deals Section
+2026-05-21 12:03:56,206 - INFO - Verifying Trending Deals page title
+2026-05-21 12:03:56,333 - INFO - Trending Deals page title Verified successfully
+2026-05-21 12:03:57,282 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260521_120356.png
+2026-05-21 12:03:57,282 - INFO - ====================================
+2026-05-21 12:03:57,282 - INFO - --STARTING BASE PAGE TEST--
+2026-05-21 12:03:57,282 - INFO - Opening category: Laptops & Computers
+2026-05-21 12:03:57,282 - INFO - Check whether to click on Laptops & Computers or Laptops & Computers page already opened
+2026-05-21 12:03:57,661 - INFO - Laptops & Computers page already opened
+2026-05-21 12:03:57,838 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_120357.png
+2026-05-21 12:03:58,016 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_120357.png
+2026-05-21 12:03:58,016 - ERROR - Cart page test failed
+2026-05-21 12:03:58,016 - ERROR - Laptops & Computers page did not open
+assert 'Laptop' in 'https://www.bestbuy.com/discover/trending-deals/trending-deals-laptops-computers/pcmcat1752523872274'
+ +  where 'https://www.bestbuy.com/discover/trending-deals/trending-deals-laptops-computers/pcmcat1752523872274' = <built-in method lower of str object at 0x00000206A99E35A0>()
+ +    where <built-in method lower of str object at 0x00000206A99E35A0> = 'https://www.bestbuy.com/discover/trending-deals/trending-deals-laptops-computers/pcmcat1752523872274'.lower
+ +      where 'https://www.bestbuy.com/discover/trending-deals/trending-deals-laptops-computers/pcmcat1752523872274' = <selenium.webdriver.chrome.webdriver.WebDriver (session="76c0f1544a9732604410689b1d7e0970")>.current_url
+2026-05-21 12:22:15,421 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-21 12:22:15,423 - INFO - Selecting Region
+2026-05-21 12:22:16,084 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260521_122215.png
+2026-05-21 12:22:47,500 - INFO - United States Region Selected
+2026-05-21 12:22:47,500 - INFO - Opening BestBuy
+2026-05-21 12:22:47,500 - INFO - Verifying homepage title
+2026-05-21 12:22:47,518 - INFO - Homepage title Verified successfully
+2026-05-21 12:22:47,519 - INFO - BestBuy opened successfully
+2026-05-21 12:22:47,716 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260521_122247.png
+2026-05-21 12:22:47,716 - INFO - Opening Trending Deals page
+2026-05-21 12:22:47,716 - INFO - Clicking on see more in Trending Deals Section
+2026-05-21 12:23:18,286 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_122318.png
+2026-05-21 12:23:18,286 - ERROR - Cart page test failed
+2026-05-21 12:23:18,286 - ERROR - Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xf9b593+105d3]
+	chromedriver!GetHandleVerifier [0xf9b6c4+10704]
+	chromedriver!(No symbol) [0xda1ea0]
+	chromedriver!(No symbol) [0xdeb28a]
+	chromedriver!(No symbol) [0xdeb52b]
+	chromedriver!(No symbol) [0xe2d052]
+	chromedriver!(No symbol) [0xe0d7c4]
+	chromedriver!(No symbol) [0xe2a936]
+	chromedriver!(No symbol) [0xe0d516]
+	chromedriver!(No symbol) [0xde08e9]
+	chromedriver!(No symbol) [0xde16a4]
+	chromedriver!GetHandleVerifier [0x1223014+298054]
+	chromedriver!GetHandleVerifier [0x121e603+293643]
+	chromedriver!GetHandleVerifier [0x123ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xfb54e8+2a528]
+	chromedriver!GetHandleVerifier [0xfbcd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xfa3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xfa4015+19055]
+	chromedriver!GetHandleVerifier [0xf8d65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x757b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e8d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e8d7c1+231]
+
+2026-05-21 12:52:41,842 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-21 12:52:41,842 - INFO - Selecting Region
+2026-05-21 12:52:42,604 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260521_125241.png
+2026-05-21 12:52:51,821 - INFO - United States Region Selected
+2026-05-21 12:52:51,821 - INFO - Opening BestBuy
+2026-05-21 12:52:51,822 - INFO - Verifying homepage title
+2026-05-21 12:52:52,037 - INFO - Homepage title Verified successfully
+2026-05-21 12:52:52,037 - INFO - BestBuy opened successfully
+2026-05-21 12:52:53,646 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260521_125252.png
+2026-05-21 12:52:53,647 - INFO - Opening Trending Deals page
+2026-05-21 12:52:53,647 - INFO - Clicking on see more in Trending Deals Section
+2026-05-21 12:53:04,903 - INFO - Clicked on see more in Trending Deals Section
+2026-05-21 12:53:04,903 - INFO - Verifying Trending Deals page title
+2026-05-21 12:53:05,156 - INFO - Trending Deals page title Verified successfully
+2026-05-21 12:53:06,171 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260521_125305.png
+2026-05-21 12:53:06,171 - INFO - ====================================
+2026-05-21 12:53:06,171 - INFO - --STARTING BASE PAGE TEST--
+2026-05-21 12:53:06,171 - INFO - Opening category: Laptops & Computers
+2026-05-21 12:53:06,171 - INFO - Check whether to click on Laptops & Computers or Laptops & Computers page already opened
+2026-05-21 12:53:07,076 - INFO - Laptops & Computers page already opened
+2026-05-21 12:53:07,267 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_125307.png
+2026-05-21 12:53:07,277 - INFO - Laptops & Computers page opened successfully
+2026-05-21 12:53:07,530 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_opened_20260521_125307.png
+2026-05-21 12:53:07,530 - INFO - --APPLYING PRICE FILTERS--
+2026-05-21 12:53:07,530 - INFO - Applying valid price filter
+2026-05-21 12:53:07,530 - INFO - Applying price filter Min:500 Max:2000
+2026-05-21 12:53:08,689 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-21 12:53:08,905 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260521_125308.png
+2026-05-21 12:53:08,978 - INFO - Clicking set price button
+2026-05-21 12:53:09,283 - INFO - Clicked on Set button
+2026-05-21 12:53:09,398 - INFO - Valid price filter applied successfully
+2026-05-21 12:53:09,398 - INFO - --ADDING PRODUCT TO CART--
+2026-05-21 12:53:09,398 - INFO - Adding product to cart
+2026-05-21 12:53:44,866 - INFO - Found 1 add to cart buttons
+2026-05-21 12:53:46,904 - INFO - Clicking on Add to cart button
+2026-05-21 12:53:46,938 - INFO - Clicked on Add to cart button
+2026-05-21 12:53:46,938 - INFO - Product added successfully
+2026-05-21 12:53:47,198 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_125346.png
+2026-05-21 12:53:47,198 - INFO - --CART PAGE OPENING--
+2026-05-21 12:53:47,198 - INFO - Opening cart page
+2026-05-21 12:53:47,466 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_125347.png
+2026-05-21 12:53:47,466 - ERROR - Cart page test failed
+2026-05-21 12:53:47,466 - ERROR - name 'TimeoutException' is not defined
+2026-05-21 14:15:34,260 - INFO - Opening BestBuy Homepage
+2026-05-21 14:15:44,134 - INFO - Opening Trending Deals page
+2026-05-21 14:15:57,512 - INFO - Opening category: Laptops & Computers
+2026-05-21 14:15:57,760 - INFO - Laptops & Computers page already opened
+2026-05-21 14:15:58,790 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_141557.png
+2026-05-21 14:15:58,790 - INFO - Applying price filter Min:500 Max:100
+2026-05-21 14:16:00,458 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-21 14:16:00,717 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260521_141600.png
+2026-05-21 14:16:00,850 - INFO - Clicking set price button
+2026-05-21 14:16:01,137 - INFO - Clicked on Set button
+2026-05-21 14:16:01,141 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-21 14:16:01,151 - INFO - Invalid range alert handled successfully
+2026-05-21 14:16:01,188 - INFO - Refreshing category page
+2026-05-21 14:16:05,002 - INFO - Applying price filter Min:100 Max:0
+2026-05-21 14:16:06,428 - INFO - Min Price:100 and Max Price:0 entered successfully
+2026-05-21 14:16:06,622 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_0_20260521_141606.png
+2026-05-21 14:16:06,657 - INFO - Clicking set price button
+2026-05-21 14:16:06,772 - INFO - Clicked on Set button
+2026-05-21 14:16:06,776 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-21 14:16:06,784 - INFO - Invalid range alert handled successfully
+2026-05-21 14:16:06,809 - INFO - Refreshing category page
+2026-05-21 14:16:11,046 - INFO - Applying price filter Min:0 Max:0
+2026-05-21 14:16:11,706 - INFO - Min Price:0 and Max Price:0 entered successfully
+2026-05-21 14:16:11,898 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_0_20260521_141611.png
+2026-05-21 14:16:11,929 - INFO - Clicking set price button
+2026-05-21 14:16:12,135 - INFO - Clicked on Set button
+2026-05-21 14:16:12,253 - INFO - Products found for 0-0 range: 0
+2026-05-21 14:16:12,253 - INFO - No products displayed for 0-0 range
+2026-05-21 14:16:12,263 - INFO - Refreshing category page
+2026-05-21 14:16:16,919 - INFO - Applying price filter Min:0 Max:100
+2026-05-21 14:16:17,646 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-21 14:16:17,844 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260521_141617.png
+2026-05-21 14:16:17,878 - INFO - Clicking set price button
+2026-05-21 14:16:18,236 - INFO - Clicked on Set button
+2026-05-21 14:16:18,336 - INFO - Valid price filter applied successfully
+2026-05-21 14:16:18,359 - INFO - Refreshing category page
+2026-05-21 14:16:22,457 - INFO - Applying price filter Min:100 Max:1000
+2026-05-21 14:16:23,144 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-21 14:16:23,383 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260521_141623.png
+2026-05-21 14:16:23,420 - INFO - Clicking set price button
+2026-05-21 14:16:23,747 - INFO - Clicked on Set button
+2026-05-21 14:16:23,845 - INFO - Valid price filter applied successfully
+2026-05-21 14:16:23,860 - INFO - Refreshing category page
+2026-05-21 14:16:27,893 - INFO - Applying price filter Min:500 Max:2000
+2026-05-21 14:16:28,524 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-21 14:16:28,800 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260521_141628.png
+2026-05-21 14:16:28,848 - INFO - Clicking set price button
+2026-05-21 14:16:29,023 - INFO - Clicked on Set button
+2026-05-21 14:16:29,121 - INFO - Valid price filter applied successfully
+2026-05-21 14:16:29,123 - INFO - Executing add to cart flow for final positive dataset
+2026-05-21 14:17:07,636 - INFO - Found 1 add to cart buttons
+2026-05-21 14:17:09,669 - INFO - Clicking on Add to cart button
+2026-05-21 14:17:09,712 - INFO - Clicked on Add to cart button
+2026-05-21 14:17:09,712 - INFO - Product added successfully
+2026-05-21 14:17:09,968 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_141709.png
+2026-05-21 14:17:09,968 - INFO - Product added to cart for price range: 500 - 2000
+2026-05-21 14:48:01,866 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-21 14:48:01,868 - INFO - Selecting Region
+2026-05-21 14:48:02,314 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260521_144801.png
+2026-05-21 14:48:19,567 - INFO - United States Region Selected
+2026-05-21 14:48:19,567 - INFO - Opening BestBuy
+2026-05-21 14:48:19,567 - INFO - Verifying homepage title
+2026-05-21 14:48:19,738 - INFO - Homepage title Verified successfully
+2026-05-21 14:48:19,738 - INFO - BestBuy opened successfully
+2026-05-21 14:48:19,890 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260521_144819.png
+2026-05-21 14:48:19,890 - INFO - Opening Trending Deals page
+2026-05-21 14:48:19,891 - INFO - Clicking on see more in Trending Deals Section
+2026-05-21 14:48:31,028 - INFO - Clicked on see more in Trending Deals Section
+2026-05-21 14:48:31,028 - INFO - Verifying Trending Deals page title
+2026-05-21 14:48:31,217 - INFO - Trending Deals page title Verified successfully
+2026-05-21 14:48:31,953 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260521_144831.png
+2026-05-21 14:48:31,953 - INFO - ====================================
+2026-05-21 14:48:31,954 - INFO - --STARTING BASE PAGE TEST--
+2026-05-21 14:48:31,954 - INFO - Opening category: Laptops & Computers
+2026-05-21 14:48:31,954 - INFO - Check whether to click on Laptops & Computers or Laptops & Computers page already opened
+2026-05-21 14:48:32,719 - INFO - Laptops & Computers page already opened
+2026-05-21 14:48:32,946 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260521_144832.png
+2026-05-21 14:48:32,953 - INFO - Laptops & Computers page opened successfully
+2026-05-21 14:48:33,154 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_opened_20260521_144832.png
+2026-05-21 14:48:33,154 - INFO - --APPLYING PRICE FILTERS--
+2026-05-21 14:48:33,154 - INFO - Applying valid price filter
+2026-05-21 14:48:33,154 - INFO - Applying price filter Min:500 Max:2000
+2026-05-21 14:48:33,721 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-21 14:48:33,921 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260521_144833.png
+2026-05-21 14:48:33,962 - INFO - Clicking set price button
+2026-05-21 14:48:34,254 - INFO - Clicked on Set button
+2026-05-21 14:48:34,339 - INFO - Valid price filter applied successfully
+2026-05-21 14:48:34,341 - INFO - --ADDING PRODUCT TO CART--
+2026-05-21 14:48:34,341 - INFO - Adding product to cart
+2026-05-21 14:49:10,854 - INFO - Found 1 add to cart buttons
+2026-05-21 14:49:12,861 - INFO - Clicking on Add to cart button
+2026-05-21 14:49:12,881 - INFO - Clicked on Add to cart button
+2026-05-21 14:49:12,881 - INFO - Product added successfully
+2026-05-21 14:49:13,074 - INFO - Screenshot saved at: reports/screenshots\product_added_20260521_144912.png
+2026-05-21 14:49:13,074 - INFO - --CART PAGE OPENING--
+2026-05-21 14:49:13,074 - INFO - Opening cart page
+2026-05-21 14:49:13,074 - INFO - Waiting for cart icon
+2026-05-21 14:49:13,256 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_144913.png
+2026-05-21 14:49:13,256 - ERROR - Cart page test failed
+2026-05-21 14:49:13,256 - ERROR - name 'TimeoutException' is not defined
