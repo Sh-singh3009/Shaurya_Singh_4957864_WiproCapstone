@@ -1,3 +1,5 @@
+import allure
+
 from pages.home_page import HomePage
 from utils.logger import LogGen
 from utils.screenshot_util import ScreenshotUtil
@@ -11,6 +13,11 @@ class TestHomepage:
         home_page = HomePage(driver)
 
         logger.info("Selecting United States region")
+        allure.attach(
+            driver.get_screenshot_as_png(),
+            name="US_region_selected",
+            attachment_type=allure.attachment_type.PNG
+        )
         ScreenshotUtil.capture_screenshot(driver, "US_region_selected")
         home_page.select_united_states()
         logger.info("United States region selected successfully")
@@ -24,6 +31,11 @@ class TestHomepage:
         assert "Best Buy" in home_page.get_homepage_title(), \
             "Homepage title is incorrect"
         logger.info("Homepage title Verified successfully")
+        allure.attach(
+            driver.get_screenshot_as_png(),
+            name="Website_opened",
+            attachment_type=allure.attachment_type.PNG
+        )
         ScreenshotUtil.capture_screenshot(driver, "Website_opened")
         logger.info("BestBuy opened successfully")
 

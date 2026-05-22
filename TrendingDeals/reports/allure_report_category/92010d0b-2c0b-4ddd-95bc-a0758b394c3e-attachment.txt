@@ -1,0 +1,7 @@
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:55 Refreshing category page
+[32mINFO    [0m TrendingDealsLogger:category_page.py:21 Applying price filter Min:0 Max:100
+[32mINFO    [0m TrendingDealsLogger:category_page.py:41 Min Price:0 and Max Price:100 entered successfully
+[32mINFO    [0m TrendingDealsLogger:screenshot_util.py:23 Screenshot saved at: reports/screenshots\price_filter_0_100_20260522_121419.png
+[32mINFO    [0m TrendingDealsLogger:category_page.py:53 Clicking set price button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:57 Clicked on Set button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:100 Valid price filter applied successfully

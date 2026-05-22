@@ -783,3 +783,115 @@ Stacktrace:
 2026-05-21 14:49:13,256 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260521_144913.png
 2026-05-21 14:49:13,256 - ERROR - Cart page test failed
 2026-05-21 14:49:13,256 - ERROR - name 'TimeoutException' is not defined
+2026-05-22 09:13:53,423 - INFO - Opening BestBuy Homepage
+2026-05-22 09:14:11,735 - INFO - Opening Trending Deals page
+2026-05-22 09:14:25,099 - INFO - Opening category: Laptops & Computers
+2026-05-22 09:14:25,294 - INFO - Laptops & Computers page already opened
+2026-05-22 09:14:26,176 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260522_091425.png
+2026-05-22 09:14:26,176 - INFO - Applying price filter Min:500 Max:100
+2026-05-22 09:14:27,077 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-22 09:14:27,406 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260522_091427.png
+2026-05-22 09:14:27,442 - INFO - Clicking set price button
+2026-05-22 09:14:27,585 - INFO - Clicked on Set button
+2026-05-22 09:14:27,589 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-22 09:14:27,598 - INFO - Invalid range alert handled successfully
+2026-05-22 09:14:27,617 - INFO - Refreshing category page
+2026-05-22 09:14:32,559 - INFO - Applying price filter Min:100 Max:0
+2026-05-22 09:14:33,004 - INFO - Min Price:100 and Max Price:0 entered successfully
+2026-05-22 09:14:33,349 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_0_20260522_091433.png
+2026-05-22 09:14:33,376 - INFO - Clicking set price button
+2026-05-22 09:14:33,483 - INFO - Clicked on Set button
+2026-05-22 09:14:33,487 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-22 09:14:33,495 - INFO - Invalid range alert handled successfully
+2026-05-22 09:14:33,511 - INFO - Refreshing category page
+2026-05-22 09:14:37,452 - INFO - Applying price filter Min:0 Max:0
+2026-05-22 09:14:37,853 - INFO - Min Price:0 and Max Price:0 entered successfully
+2026-05-22 09:14:38,134 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_0_20260522_091438.png
+2026-05-22 09:14:38,173 - INFO - Clicking set price button
+2026-05-22 09:14:38,329 - INFO - Clicked on Set button
+2026-05-22 09:14:38,394 - INFO - Products found for 0-0 range: 0
+2026-05-22 09:14:38,394 - INFO - No products displayed for 0-0 range
+2026-05-22 09:14:38,406 - INFO - Refreshing category page
+2026-05-22 09:14:42,366 - INFO - Applying price filter Min:0 Max:100
+2026-05-22 09:14:42,879 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-22 09:14:43,191 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260522_091443.png
+2026-05-22 09:14:43,215 - INFO - Clicking set price button
+2026-05-22 09:14:43,414 - INFO - Clicked on Set button
+2026-05-22 09:14:43,488 - INFO - Valid price filter applied successfully
+2026-05-22 09:14:43,499 - INFO - Refreshing category page
+2026-05-22 09:14:47,317 - INFO - Applying price filter Min:100 Max:1000
+2026-05-22 09:14:47,882 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-22 09:14:48,227 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260522_091448.png
+2026-05-22 09:14:48,265 - INFO - Clicking set price button
+2026-05-22 09:14:48,448 - INFO - Clicked on Set button
+2026-05-22 09:14:48,555 - INFO - Valid price filter applied successfully
+2026-05-22 09:14:48,573 - INFO - Refreshing category page
+2026-05-22 09:14:52,696 - INFO - Applying price filter Min:500 Max:2000
+2026-05-22 09:14:53,511 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-22 09:14:53,809 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260522_091453.png
+2026-05-22 09:14:53,841 - INFO - Clicking set price button
+2026-05-22 09:14:53,997 - INFO - Clicked on Set button
+2026-05-22 09:14:54,052 - INFO - Valid price filter applied successfully
+2026-05-22 09:14:54,052 - INFO - Executing add to cart flow for final positive dataset
+2026-05-22 09:15:32,776 - INFO - Found 1 add to cart buttons
+2026-05-22 09:15:32,798 - INFO - Clicking on Add to cart button
+2026-05-22 09:15:32,824 - INFO - Clicked on Add to cart button
+2026-05-22 09:15:32,824 - INFO - Product added successfully
+2026-05-22 09:15:33,200 - INFO - Screenshot saved at: reports/screenshots\product_added_20260522_091533.png
+2026-05-22 09:15:33,200 - INFO - Product added to cart for price range: 500 - 2000
+2026-05-22 12:13:13,966 - INFO - Opening BestBuy Homepage
+2026-05-22 12:13:25,532 - INFO - Opening Trending Deals page
+2026-05-22 12:13:43,859 - INFO - Opening category: Laptops & Computers
+2026-05-22 12:13:44,034 - INFO - Laptops & Computers page already opened
+2026-05-22 12:13:45,161 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260522_121344.png
+2026-05-22 12:13:45,162 - INFO - Applying price filter Min:500 Max:100
+2026-05-22 12:13:46,867 - INFO - Min Price:500 and Max Price:100 entered successfully
+2026-05-22 12:13:47,361 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_100_20260522_121347.png
+2026-05-22 12:13:47,414 - INFO - Clicking set price button
+2026-05-22 12:13:47,561 - INFO - Clicked on Set button
+2026-05-22 12:13:47,567 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-22 12:13:47,577 - INFO - Invalid range alert handled successfully
+2026-05-22 12:13:47,603 - INFO - Refreshing category page
+2026-05-22 12:13:59,342 - INFO - Applying price filter Min:100 Max:0
+2026-05-22 12:14:00,071 - INFO - Min Price:100 and Max Price:0 entered successfully
+2026-05-22 12:14:00,507 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_0_20260522_121400.png
+2026-05-22 12:14:00,549 - INFO - Clicking set price button
+2026-05-22 12:14:00,717 - INFO - Clicked on Set button
+2026-05-22 12:14:00,721 - INFO - Alert message: Minimum value cannot be greater than the maximum value.
+2026-05-22 12:14:00,732 - INFO - Invalid range alert handled successfully
+2026-05-22 12:14:00,752 - INFO - Refreshing category page
+2026-05-22 12:14:10,026 - INFO - Applying price filter Min:0 Max:0
+2026-05-22 12:14:11,093 - INFO - Min Price:0 and Max Price:0 entered successfully
+2026-05-22 12:14:11,472 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_0_20260522_121411.png
+2026-05-22 12:14:11,521 - INFO - Clicking set price button
+2026-05-22 12:14:11,814 - INFO - Clicked on Set button
+2026-05-22 12:14:12,045 - INFO - Products found for 0-0 range: 0
+2026-05-22 12:14:12,046 - INFO - No products displayed for 0-0 range
+2026-05-22 12:14:12,063 - INFO - Refreshing category page
+2026-05-22 12:14:18,684 - INFO - Applying price filter Min:0 Max:100
+2026-05-22 12:14:19,331 - INFO - Min Price:0 and Max Price:100 entered successfully
+2026-05-22 12:14:19,749 - INFO - Screenshot saved at: reports/screenshots\price_filter_0_100_20260522_121419.png
+2026-05-22 12:14:19,804 - INFO - Clicking set price button
+2026-05-22 12:14:20,162 - INFO - Clicked on Set button
+2026-05-22 12:14:20,270 - INFO - Valid price filter applied successfully
+2026-05-22 12:14:20,283 - INFO - Refreshing category page
+2026-05-22 12:14:27,421 - INFO - Applying price filter Min:100 Max:1000
+2026-05-22 12:14:28,008 - INFO - Min Price:100 and Max Price:1000 entered successfully
+2026-05-22 12:14:28,419 - INFO - Screenshot saved at: reports/screenshots\price_filter_100_1000_20260522_121428.png
+2026-05-22 12:14:28,455 - INFO - Clicking set price button
+2026-05-22 12:14:28,675 - INFO - Clicked on Set button
+2026-05-22 12:14:28,744 - INFO - Valid price filter applied successfully
+2026-05-22 12:14:28,763 - INFO - Refreshing category page
+2026-05-22 12:14:35,155 - INFO - Applying price filter Min:500 Max:2000
+2026-05-22 12:14:35,959 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-22 12:14:36,330 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260522_121436.png
+2026-05-22 12:14:36,373 - INFO - Clicking set price button
+2026-05-22 12:14:36,638 - INFO - Clicked on Set button
+2026-05-22 12:14:36,735 - INFO - Valid price filter applied successfully
+2026-05-22 12:14:36,735 - INFO - Executing add to cart flow for final positive dataset
+2026-05-22 12:15:13,870 - INFO - Found 1 add to cart buttons
+2026-05-22 12:15:13,893 - INFO - Clicking on Add to cart button
+2026-05-22 12:15:13,936 - INFO - Clicked on Add to cart button
+2026-05-22 12:15:13,936 - INFO - Product added successfully
+2026-05-22 12:15:14,513 - INFO - Screenshot saved at: reports/screenshots\product_added_20260522_121514.png
+2026-05-22 12:15:14,515 - INFO - Product added to cart for price range: 500 - 2000

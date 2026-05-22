@@ -1,0 +1,14 @@
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:55 Refreshing category page
+[32mINFO    [0m TrendingDealsLogger:category_page.py:21 Applying price filter Min:500 Max:2000
+[32mINFO    [0m TrendingDealsLogger:category_page.py:41 Min Price:500 and Max Price:2000 entered successfully
+[32mINFO    [0m TrendingDealsLogger:screenshot_util.py:23 Screenshot saved at: reports/screenshots\price_filter_500_2000_20260522_121436.png
+[32mINFO    [0m TrendingDealsLogger:category_page.py:53 Clicking set price button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:57 Clicked on Set button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:100 Valid price filter applied successfully
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:69 Executing add to cart flow for final positive dataset
+[32mINFO    [0m TrendingDealsLogger:category_page.py:125 Found 1 add to cart buttons
+[32mINFO    [0m TrendingDealsLogger:category_page.py:134 Clicking on Add to cart button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:140 Clicked on Add to cart button
+[32mINFO    [0m TrendingDealsLogger:category_page.py:141 Product added successfully
+[32mINFO    [0m TrendingDealsLogger:screenshot_util.py:23 Screenshot saved at: reports/screenshots\product_added_20260522_121514.png
+[32mINFO    [0m TrendingDealsLogger:test_category_page.py:75 Product added to cart for price range: 500 - 2000

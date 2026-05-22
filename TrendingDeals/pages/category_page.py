@@ -1,10 +1,8 @@
-import time
-
 import allure
-from allure_commons.types import AttachmentType
+
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
+from selenium.common.exceptions import TimeoutException
 
 from locators.category_locator import CategoryLocator
 from utils.logger import LogGen
@@ -42,6 +40,11 @@ class CategoryPage:
 
         logger.info(f"Min Price:{min_price} and Max Price:{max_price} entered successfully")
 
+        allure.attach(
+            self.driver.get_screenshot_as_png(),
+            name=f"price_filter_{min_price}_{max_price}",
+            attachment_type=allure.attachment_type.PNG
+        )
         ScreenshotUtil.capture_screenshot(self.driver,f"price_filter_{min_price}_{max_price}")
         set_button = wait.until(
             EC.element_to_be_clickable(
@@ -127,7 +130,7 @@ class CategoryPage:
             add_buttons[0]
         )
 
-        time.sleep(2)
+        self.driver.implicitly_wait(3)
         logger.info("Clicking on Add to cart button")
 
         self.driver.execute_script(
@@ -137,6 +140,11 @@ class CategoryPage:
         logger.info("Clicked on Add to cart button")
         logger.info("Product added successfully")
 
+        allure.attach(
+            self.driver.get_screenshot_as_png(),
+            name="product_added",
+            attachment_type=allure.attachment_type.PNG
+        )
         ScreenshotUtil.capture_screenshot(self.driver,"product_added")
 
 

@@ -1,4 +1,5 @@
 import pytest
+import allure
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -46,6 +47,11 @@ class TestCartPage:
                 "Homepage title is incorrect"
             logger.info("Homepage title Verified successfully")
             logger.info("BestBuy opened successfully")
+            allure.attach(
+                driver.get_screenshot_as_png(),
+                name="Website_opened",
+                attachment_type=allure.attachment_type.PNG
+            )
             ScreenshotUtil.capture_screenshot(driver, "Website_opened")
 
             logger.info("Opening Trending Deals page")
@@ -66,6 +72,11 @@ class TestCartPage:
             assert "laptops" in driver.current_url.lower(), \
                 f"{category} page did not open"
             logger.info(f"{category} page opened successfully")
+            allure.attach(
+                driver.get_screenshot_as_png(),
+                name=f"{category}_opened",
+                attachment_type=allure.attachment_type.PNG
+            )
             ScreenshotUtil.capture_screenshot(driver, f"{category}_opened")
 
             logger.info("--APPLYING PRICE FILTERS--")
@@ -126,7 +137,7 @@ class TestCartPage:
                 "Checkout page verified successfully"
             )
 
-        except Exception as e:
+        except TimeoutException as e:
 
             ScreenshotUtil.capture_screenshot(
                 driver,

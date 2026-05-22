@@ -1,7 +1,9 @@
 import pytest
+
 from pages.home_page import HomePage
 from pages.base_page import BasePage
 from pages.category_page import CategoryPage
+
 from utils.json_reader import JsonReader
 from utils.csv_reader import CSVReader
 from utils.logger import LogGen
@@ -73,10 +75,7 @@ class TestCategoryPage:
                 logger.info(f"Product added to cart for price range: {min_price} - {max_price}")
         except Exception as e:
 
-            ScreenshotUtil.capture_screenshot(
-                driver,
-                "category_test_failed"
-            )
+            ScreenshotUtil.capture_screenshot(driver, "category_test_failed")
 
             logger.error(
                 f"Test failed for "
