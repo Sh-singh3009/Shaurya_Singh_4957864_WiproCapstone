@@ -1,0 +1,10 @@
+selenium
+pytest
+webdriver-manager
+allure-pytest
+behave
+allure-behave
+gherkin-official
+pytest
+pytest-bdd
+pytest-check
