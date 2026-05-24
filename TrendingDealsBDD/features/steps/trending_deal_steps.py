@@ -17,28 +17,32 @@ logger = LogGen.loggen()
 # BACKGROUND
 # ===========================================================================
 
-@given("the user is on the Best Buy home page")
-def step_user_is_on_home_page(context):
-    """
-    Initialise all page-object helpers and store them on `context`
-    so every subsequent step can reuse them without re-creating.
-    """
-    context.home_page     = HomePage(context.driver)
-    context.base_page     = BasePage(context.driver)
-    context.category_page = CategoryPage(context.driver)
-    logger.info("Background: Browser is on the Best Buy home page")
-    allure.attach(
-        context.driver.get_screenshot_as_png(),
-        name="main_website_page",
-        attachment_type=allure.attachment_type.PNG
-    )
+# @given("the user is on the Best Buy home page")
+# def step_user_is_on_home_page(context):
+#     """
+#     Initialise all page-object helpers and store them on `context`
+#     so every subsequent step can reuse them without re-creating.
+#     """
+#     context.home_page     = HomePage(context.driver)
+#     context.base_page     = BasePage(context.driver)
+#     context.category_page = CategoryPage(context.driver)
+#     logger.info("Background: Browser is on the Best Buy home page")
+#     allure.attach(
+#         context.driver.get_screenshot_as_png(),
+#         name="main_website_page",
+#         attachment_type=allure.attachment_type.PNG
+#     )
 
 @given("the user is on the Laptops category page")
 def step_user_is_on_laptops_page(context):
     context.category_page = CategoryPage(context.driver)
     print(">>> CategoryPage initialised")
     logger.info("Background: Browser is on the Laptops & Computers category page")
-
+    allure.attach(
+        context.driver.get_screenshot_as_png(),
+        name="laptops_category_page",
+        attachment_type=allure.attachment_type.PNG
+    )
 
 # ===========================================================================
 # SHARED / REUSABLE STEPS
@@ -159,11 +163,6 @@ def step_alert_should_appear(context):
     assert "Minimum value cannot be greater than the maximum value." in context.alert_text, (
         f"Unexpected alert text: '{context.alert_text}'"
     )
-    allure.attach(
-        context.driver.get_screenshot_as_png(),
-        name=f"invalid_range_alert_{context.current_min}_{context.current_max}",
-        attachment_type=allure.attachment_type.PNG
-    )
     logger.info("Alert message validated successfully")
 
 
@@ -173,6 +172,13 @@ def step_accept_alert(context):
     if alert:
         alert.accept()
         logger.info("Alert accepted")
+        min_val = getattr(context, 'current_min', 'unknown')
+        max_val = getattr(context, 'current_max', 'unknown')
+        allure.attach(
+            context.driver.get_screenshot_as_png(),
+            name=f"invalid_range_alert_{min_val}_{max_val}",
+            attachment_type=allure.attachment_type.PNG
+        )
     else:
         logger.warning("No alert present to accept")
 

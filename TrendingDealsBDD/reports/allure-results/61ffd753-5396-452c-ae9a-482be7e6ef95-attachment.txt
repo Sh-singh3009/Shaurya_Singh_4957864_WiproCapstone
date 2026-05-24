@@ -3,74 +3,74 @@
 2026-05-23 05:14:26,779 - INFO - Home page verified successfully
 2026-05-23 05:14:28,613 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_051426.png
 2026-05-23 05:14:28,701 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:14:44,076 - INFO - Country selector not present — skipping
+2026-05-23 05:14:44,076 - INFO - Country selector not present â€” skipping
 2026-05-23 05:16:44,183 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,162 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,162 - INFO - Country selector not present â€” skipping
 2026-05-23 05:17:47,173 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,178 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,178 - INFO - Country selector not present â€” skipping
 2026-05-23 05:17:47,190 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,194 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,194 - INFO - Country selector not present â€” skipping
 2026-05-23 05:17:47,200 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,203 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,203 - INFO - Country selector not present â€” skipping
 2026-05-23 05:17:47,211 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,214 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,214 - INFO - Country selector not present â€” skipping
 2026-05-23 05:17:47,226 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:17:47,229 - INFO - Country selector not present — skipping
+2026-05-23 05:17:47,229 - INFO - Country selector not present â€” skipping
 2026-05-23 05:45:51,699 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 05:45:58,657 - INFO - Selected United States
 2026-05-23 05:45:59,063 - INFO - Home page verified successfully
 2026-05-23 05:46:00,069 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_054559.png
 2026-05-23 05:46:00,072 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:15,095 - INFO - Country selector not present — skipping
+2026-05-23 05:46:15,095 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,721 - INFO - Clicked Trending Deals 'See More' button
 2026-05-23 05:46:54,850 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,861 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,861 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,881 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,886 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,886 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,905 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,913 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,913 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,928 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,933 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,933 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,951 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,964 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,964 - INFO - Country selector not present â€” skipping
 2026-05-23 05:46:54,989 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 05:46:54,998 - INFO - Country selector not present — skipping
+2026-05-23 05:46:54,998 - INFO - Country selector not present â€” skipping
 2026-05-23 07:15:15,050 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 07:15:21,891 - INFO - Selected United States
 2026-05-23 07:15:22,244 - INFO - Home page verified successfully
 2026-05-23 07:15:23,156 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_071522.png
 2026-05-23 07:15:23,158 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:15:41,968 - INFO - Country selector not present — skipping
+2026-05-23 07:15:41,968 - INFO - Country selector not present â€” skipping
 2026-05-23 07:17:42,170 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,193 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,193 - INFO - Country selector not present â€” skipping
 2026-05-23 07:18:31,211 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,216 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,216 - INFO - Country selector not present â€” skipping
 2026-05-23 07:18:31,230 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,234 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,234 - INFO - Country selector not present â€” skipping
 2026-05-23 07:18:31,241 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,245 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,245 - INFO - Country selector not present â€” skipping
 2026-05-23 07:18:31,255 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,259 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,259 - INFO - Country selector not present â€” skipping
 2026-05-23 07:18:31,273 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 07:18:31,278 - INFO - Country selector not present — skipping
+2026-05-23 07:18:31,278 - INFO - Country selector not present â€” skipping
 2026-05-23 09:35:55,199 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 09:36:54,918 - INFO - Selected United States
 2026-05-23 09:36:54,937 - INFO - Home page verified successfully
 2026-05-23 09:36:55,445 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_093654.png
 2026-05-23 09:36:55,449 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:10,943 - INFO - Country selector not present — skipping
+2026-05-23 09:37:10,943 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:41,216 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,315 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,315 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:42,543 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,546 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,546 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:42,554 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,556 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,556 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:42,561 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,564 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,564 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:42,571 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,574 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,574 - INFO - Country selector not present â€” skipping
 2026-05-23 09:37:42,581 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 09:37:42,584 - INFO - Country selector not present — skipping
+2026-05-23 09:37:42,584 - INFO - Country selector not present â€” skipping
 2026-05-23 10:31:30,259 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 10:31:30,909 - INFO - Entered Min=500, Max=100
 2026-05-23 10:31:31,107 - INFO - Clicked Set button
@@ -138,10 +138,10 @@
 2026-05-23 10:31:55,402 - INFO - Products are visible on the page after applying price filter
 2026-05-23 10:31:55,555 - INFO - Screenshot saved at: reports/screenshots\products_visible_20260523_103155.png
 2026-05-23 10:31:55,597 - INFO - First product price: $1424.99
-2026-05-23 10:31:55,597 - WARNING - SOFT ASSERT FAILED — First product price $1424.99 is outside the filter range (100, 1000)
+2026-05-23 10:31:55,597 - WARNING - SOFT ASSERT FAILED â€” First product price $1424.99 is outside the filter range (100, 1000)
 2026-05-23 10:31:55,740 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260523_103155.png
 2026-05-23 10:31:55,959 - INFO - Clicked Clear button
-2026-05-23 10:31:56,028 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 10:31:56,028 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 10:31:56,032 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 10:31:56,466 - INFO - Entered Min=500, Max=2000
 2026-05-23 10:31:56,492 - INFO - Products are visible after filter
@@ -182,10 +182,10 @@
 2026-05-23 11:01:30,762 - INFO - Products are visible on the page after applying price filter
 2026-05-23 11:01:30,928 - INFO - Screenshot saved at: reports/screenshots\products_visible_20260523_110130.png
 2026-05-23 11:01:30,968 - INFO - First product price: $1424.99
-2026-05-23 11:01:30,968 - WARNING - SOFT ASSERT FAILED — First product price $1424.99 is outside the filter range (100, 1000)
+2026-05-23 11:01:30,968 - WARNING - SOFT ASSERT FAILED â€” First product price $1424.99 is outside the filter range (100, 1000)
 2026-05-23 11:01:31,118 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260523_110130.png
 2026-05-23 11:01:31,336 - INFO - Clicked Clear button
-2026-05-23 11:01:31,375 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 11:01:31,375 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 11:01:31,377 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 11:01:31,805 - INFO - Entered Min=500, Max=2000
 2026-05-23 11:01:31,829 - INFO - Products are visible after filter
@@ -227,10 +227,10 @@
 2026-05-23 11:26:31,441 - INFO - Products are visible on the page after applying price filter
 2026-05-23 11:26:31,589 - INFO - Screenshot saved at: reports/screenshots\products_visible_20260523_112631.png
 2026-05-23 11:26:31,627 - INFO - First product price: $1424.99
-2026-05-23 11:26:31,627 - WARNING - SOFT ASSERT FAILED — First product price $1424.99 is outside the filter range (100, 1000)
+2026-05-23 11:26:31,627 - WARNING - SOFT ASSERT FAILED â€” First product price $1424.99 is outside the filter range (100, 1000)
 2026-05-23 11:26:31,792 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260523_112631.png
 2026-05-23 11:26:31,994 - INFO - Clicked Clear button
-2026-05-23 11:26:32,033 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 11:26:32,033 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 11:26:32,034 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 11:26:33,908 - INFO - Entered Min=500, Max=2000
 2026-05-23 11:26:33,931 - INFO - Products are visible after filter
@@ -260,17 +260,17 @@
 2026-05-23 12:13:24,246 - INFO - Clicked Set button
 2026-05-23 12:13:44,352 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-23 12:13:44,352 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-23 12:13:44,352 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-23 12:13:44,568 - INFO - Clicked Clear button
-2026-05-23 12:13:44,651 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 12:13:44,651 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 12:13:44,655 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 12:13:46,387 - INFO - Entered Min=0, Max=100
 2026-05-23 12:13:49,583 - INFO - Clicked Set button
 2026-05-23 12:14:09,945 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-23 12:14:09,945 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-23 12:14:09,945 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-23 12:14:10,135 - INFO - Clicked Clear button
-2026-05-23 12:14:10,176 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 12:14:10,176 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 12:14:10,178 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 12:14:11,892 - INFO - Entered Min=100, Max=1000
 2026-05-23 12:14:15,101 - INFO - Clicked Set button
@@ -281,7 +281,7 @@
 2026-05-23 12:14:15,267 - INFO - Price $579.99 is within range (100, 1000) CHECK
 2026-05-23 12:14:15,354 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260523_121415.png
 2026-05-23 12:14:15,569 - INFO - Clicked Clear button
-2026-05-23 12:14:15,617 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 12:14:15,617 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 12:14:15,618 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 12:14:17,364 - INFO - Entered Min=500, Max=2000
 2026-05-23 12:14:17,383 - INFO - Products are visible after filter
@@ -311,17 +311,17 @@
 2026-05-23 14:25:33,397 - INFO - Clicked Set button
 2026-05-23 14:25:53,522 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-23 14:25:53,522 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-23 14:25:53,522 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-23 14:25:53,866 - INFO - Clicked Clear button
-2026-05-23 14:25:53,929 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 14:25:53,929 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 14:25:53,932 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 14:25:55,989 - INFO - Entered Min=0, Max=100
 2026-05-23 14:25:59,436 - INFO - Clicked Set button
 2026-05-23 14:26:19,664 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-23 14:26:19,664 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-23 14:26:19,664 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-23 14:26:19,965 - INFO - Clicked Clear button
-2026-05-23 14:26:20,027 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 14:26:20,027 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 14:26:20,028 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 14:26:22,080 - INFO - Entered Min=100, Max=1000
 2026-05-23 14:26:25,443 - INFO - Clicked Set button
@@ -332,7 +332,7 @@
 2026-05-23 14:26:25,661 - INFO - Price $579.99 is within range (100, 1000) CHECK
 2026-05-23 14:26:25,771 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260523_142625.png
 2026-05-23 14:26:26,073 - INFO - Clicked Clear button
-2026-05-23 14:26:26,141 - INFO - Price filter cleared — input boxes are empty
+2026-05-23 14:26:26,141 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-23 14:26:26,146 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-23 14:26:28,159 - INFO - Entered Min=500, Max=2000
 2026-05-23 14:26:31,512 - INFO - Clicked Set button
@@ -344,14 +344,14 @@
 2026-05-23 14:26:31,814 - INFO - Screenshot saved at: reports/screenshots\price_check_500_2000_20260523_142631.png
 2026-05-23 14:26:31,896 - INFO - Found 1 Add-to-Cart button(s)
 2026-05-23 14:26:31,997 - INFO - Clicked Add-to-Cart for the first product
-2026-05-23 14:28:32,081 - WARNING - Cart icon click timed out — page still loading: HTTPConnectionPool(host='localhost', port=64288): Read timed out. (read timeout=120)
-2026-05-23 14:28:32,084 - WARNING - Cart icon click raised a timeout exception as expected — page was still loading: HTTPConnectionPool(host='localhost', port=64288): Read timed out. (read timeout=120)
+2026-05-23 14:28:32,081 - WARNING - Cart icon click timed out â€” page still loading: HTTPConnectionPool(host='localhost', port=64288): Read timed out. (read timeout=120)
+2026-05-23 14:28:32,084 - WARNING - Cart icon click raised a timeout exception as expected â€” page was still loading: HTTPConnectionPool(host='localhost', port=64288): Read timed out. (read timeout=120)
 2026-05-23 16:55:18,906 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 16:55:42,412 - INFO - Selected United States
 2026-05-23 16:55:43,316 - INFO - Home page verified successfully
 2026-05-23 16:55:43,456 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_165543.png
 2026-05-23 16:55:43,459 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 16:55:59,119 - INFO - Country selector not present — skipping
+2026-05-23 16:55:59,119 - INFO - Country selector not present â€” skipping
 2026-05-23 16:56:16,166 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 16:56:16,289 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 16:56:16,296 - INFO - Background: Browser is on the Best Buy home page
@@ -363,13 +363,13 @@
 2026-05-23 18:36:15,808 - INFO - Home page verified successfully
 2026-05-23 18:36:17,169 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260523_183615.png
 2026-05-23 18:36:17,174 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 18:36:32,808 - INFO - Country selector not present — skipping
+2026-05-23 18:36:32,808 - INFO - Country selector not present â€” skipping
 2026-05-23 18:37:03,267 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 18:37:18,928 - INFO - Country selector not present — skipping
+2026-05-23 18:37:18,928 - INFO - Country selector not present â€” skipping
 2026-05-23 18:37:39,149 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 18:37:54,714 - INFO - Country selector not present — skipping
+2026-05-23 18:37:54,714 - INFO - Country selector not present â€” skipping
 2026-05-23 18:38:15,152 - INFO - Background: Browser is on the Best Buy home page
-2026-05-23 18:38:30,397 - INFO - Country selector not present — skipping
+2026-05-23 18:38:30,397 - INFO - Country selector not present â€” skipping
 2026-05-23 18:38:40,155 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 18:38:40,491 - INFO - Background: Browser is on the Best Buy home page
 2026-05-23 18:38:40,501 - INFO - Background: Browser is on the Best Buy home page
@@ -378,13 +378,13 @@
 2026-05-24 05:28:32,240 - INFO - Home page verified successfully
 2026-05-24 05:28:33,745 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260524_052832.png
 2026-05-24 05:28:33,747 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 05:28:49,154 - INFO - Country selector not present — skipping
+2026-05-24 05:28:49,154 - INFO - Country selector not present â€” skipping
 2026-05-24 05:29:19,369 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 05:29:35,194 - INFO - Country selector not present — skipping
+2026-05-24 05:29:35,194 - INFO - Country selector not present â€” skipping
 2026-05-24 05:29:55,501 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 05:30:11,227 - INFO - Country selector not present — skipping
+2026-05-24 05:30:11,227 - INFO - Country selector not present â€” skipping
 2026-05-24 05:30:31,474 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 05:30:47,276 - INFO - Country selector not present — skipping
+2026-05-24 05:30:47,276 - INFO - Country selector not present â€” skipping
 2026-05-24 05:30:53,028 - INFO - Background: Browser is on the Best Buy home page
 2026-05-24 05:30:53,051 - INFO - Background: Browser is on the Best Buy home page
 2026-05-24 05:30:53,071 - INFO - Background: Browser is on the Best Buy home page
@@ -393,9 +393,9 @@
 2026-05-24 08:26:02,885 - INFO - Home page verified successfully
 2026-05-24 08:26:04,371 - INFO - Screenshot saved at: reports/screenshots\home_page_verified_20260524_082602.png
 2026-05-24 08:26:04,380 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 08:26:19,718 - INFO - Country selector not present — skipping
+2026-05-24 08:26:19,718 - INFO - Country selector not present â€” skipping
 2026-05-24 08:26:49,919 - INFO - Background: Browser is on the Best Buy home page
-2026-05-24 08:27:05,715 - INFO - Country selector not present — skipping
+2026-05-24 08:27:05,715 - INFO - Country selector not present â€” skipping
 2026-05-24 08:27:19,930 - INFO - Background: Browser is on the Best Buy home page
 2026-05-24 08:27:20,013 - INFO - Background: Browser is on the Best Buy home page
 2026-05-24 08:27:20,525 - INFO - Background: Browser is on the Best Buy home page
@@ -414,17 +414,17 @@
 2026-05-24 09:15:34,239 - INFO - Clicked Set button
 2026-05-24 09:15:54,672 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-24 09:15:54,672 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-24 09:15:54,672 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-24 09:15:54,954 - INFO - Clicked Clear button
-2026-05-24 09:15:54,992 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 09:15:54,992 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 09:15:54,992 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:15:56,761 - INFO - Entered Min=0, Max=100
 2026-05-24 09:15:59,950 - INFO - Clicked Set button
 2026-05-24 09:16:20,302 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-24 09:16:20,302 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-24 09:16:20,302 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-24 09:16:20,572 - INFO - Clicked Clear button
-2026-05-24 09:16:20,613 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 09:16:20,613 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 09:16:20,617 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:16:22,409 - INFO - Entered Min=100, Max=1000
 2026-05-24 09:16:25,613 - INFO - Clicked Set button
@@ -435,7 +435,7 @@
 2026-05-24 09:16:25,749 - INFO - Price $949.0 is within range (100, 1000) CHECK
 2026-05-24 09:16:25,917 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260524_091625.png
 2026-05-24 09:16:26,088 - INFO - Clicked Clear button
-2026-05-24 09:16:26,132 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 09:16:26,132 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 09:16:26,134 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:16:27,923 - INFO - Entered Min=500, Max=2000
 2026-05-24 09:16:31,159 - INFO - Clicked Set button
@@ -447,8 +447,8 @@
 2026-05-24 09:16:31,468 - INFO - Screenshot saved at: reports/screenshots\price_check_500_2000_20260524_091631.png
 2026-05-24 09:16:31,508 - INFO - Found 1 Add-to-Cart button(s)
 2026-05-24 09:16:31,559 - INFO - Clicked Add-to-Cart for the first product
-2026-05-24 09:18:31,608 - WARNING - Cart icon click timed out — page still loading: HTTPConnectionPool(host='localhost', port=59063): Read timed out. (read timeout=120)
-2026-05-24 09:18:31,609 - WARNING - Cart icon click raised a timeout exception as expected — page was still loading: HTTPConnectionPool(host='localhost', port=59063): Read timed out. (read timeout=120)
+2026-05-24 09:18:31,608 - WARNING - Cart icon click timed out â€” page still loading: HTTPConnectionPool(host='localhost', port=59063): Read timed out. (read timeout=120)
+2026-05-24 09:18:31,609 - WARNING - Cart icon click raised a timeout exception as expected â€” page was still loading: HTTPConnectionPool(host='localhost', port=59063): Read timed out. (read timeout=120)
 2026-05-24 09:58:50,374 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:58:53,209 - INFO - Entered Min=500, Max=100
 2026-05-24 09:58:56,421 - INFO - Clicked Set button
@@ -468,17 +468,17 @@
 2026-05-24 09:59:09,809 - INFO - Clicked Set button
 2026-05-24 09:59:29,989 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-24 09:59:29,989 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-24 09:59:29,989 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-24 09:59:30,483 - INFO - Clicked Clear button
-2026-05-24 09:59:30,590 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 09:59:30,590 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 09:59:30,618 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:59:33,108 - INFO - Entered Min=0, Max=100
 2026-05-24 09:59:36,444 - INFO - Clicked Set button
 2026-05-24 09:59:56,737 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-24 09:59:56,737 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-24 09:59:56,737 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-24 09:59:57,145 - INFO - Clicked Clear button
-2026-05-24 09:59:57,213 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 09:59:57,213 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 09:59:57,236 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 09:59:59,470 - INFO - Entered Min=100, Max=1000
 2026-05-24 10:00:02,760 - INFO - Clicked Set button
@@ -489,7 +489,7 @@
 2026-05-24 10:00:02,959 - INFO - Price $949.0 is within range (100, 1000) CHECK
 2026-05-24 10:00:03,155 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260524_100003.png
 2026-05-24 10:00:03,484 - INFO - Clicked Clear button
-2026-05-24 10:00:03,566 - INFO - Price filter cleared — input boxes are empty
+2026-05-24 10:00:03,566 - INFO - Price filter cleared â€” input boxes are empty
 2026-05-24 10:00:03,588 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 10:00:05,822 - INFO - Entered Min=500, Max=2000
 2026-05-24 10:00:09,117 - INFO - Clicked Set button
@@ -501,8 +501,8 @@
 2026-05-24 10:00:09,522 - INFO - Screenshot saved at: reports/screenshots\price_check_500_2000_20260524_100009.png
 2026-05-24 10:00:09,600 - INFO - Found 1 Add-to-Cart button(s)
 2026-05-24 10:00:09,714 - INFO - Clicked Add-to-Cart for the first product
-2026-05-24 10:02:09,809 - WARNING - Cart icon click timed out — page still loading: HTTPConnectionPool(host='localhost', port=49447): Read timed out. (read timeout=120)
-2026-05-24 10:02:09,809 - WARNING - Cart icon click raised a timeout exception as expected — page was still loading: HTTPConnectionPool(host='localhost', port=49447): Read timed out. (read timeout=120)
+2026-05-24 10:02:09,809 - WARNING - Cart icon click timed out â€” page still loading: HTTPConnectionPool(host='localhost', port=49447): Read timed out. (read timeout=120)
+2026-05-24 10:02:09,809 - WARNING - Cart icon click raised a timeout exception as expected â€” page was still loading: HTTPConnectionPool(host='localhost', port=49447): Read timed out. (read timeout=120)
 2026-05-24 10:21:57,728 - INFO - Background: Browser is on the Laptops & Computers category page
 2026-05-24 10:22:00,275 - INFO - Entered Min=500, Max=100
 2026-05-24 10:22:03,471 - INFO - Clicked Set button
@@ -522,38 +522,6 @@
 2026-05-24 10:22:16,456 - INFO - Clicked Set button
 2026-05-24 10:22:36,645 - INFO - product-grid not empty or not found: Message: 
 
-2026-05-24 10:22:36,645 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
+2026-05-24 10:22:36,645 - WARNING - SOFT ASSERT FAILED â€” Product grid is not empty after zero/low price filter is not applied.
 2026-05-24 10:22:37,099 - INFO - Clicked Clear button
-2026-05-24 10:22:37,169 - INFO - Price filter cleared — input boxes are empty
-2026-05-24 10:22:37,183 - INFO - Background: Browser is on the Laptops & Computers category page
-2026-05-24 10:22:39,447 - INFO - Entered Min=0, Max=100
-2026-05-24 10:22:42,831 - INFO - Clicked Set button
-2026-05-24 10:23:03,102 - INFO - product-grid not empty or not found: Message: 
-
-2026-05-24 10:23:03,106 - WARNING - SOFT ASSERT FAILED — Product grid is not empty after zero/low price filter is not applied.
-2026-05-24 10:23:03,506 - INFO - Clicked Clear button
-2026-05-24 10:23:03,573 - INFO - Price filter cleared — input boxes are empty
-2026-05-24 10:23:03,596 - INFO - Background: Browser is on the Laptops & Computers category page
-2026-05-24 10:23:05,774 - INFO - Entered Min=100, Max=1000
-2026-05-24 10:23:09,075 - INFO - Clicked Set button
-2026-05-24 10:23:09,101 - INFO - Products are visible after filter
-2026-05-24 10:23:09,101 - INFO - Products are visible on the page after applying price filter
-2026-05-24 10:23:09,216 - INFO - Screenshot saved at: reports/screenshots\products_visible_20260524_102309.png
-2026-05-24 10:23:09,276 - INFO - First product price: $949.0
-2026-05-24 10:23:09,276 - INFO - Price $949.0 is within range (100, 1000) CHECK
-2026-05-24 10:23:09,495 - INFO - Screenshot saved at: reports/screenshots\price_check_100_1000_20260524_102309.png
-2026-05-24 10:23:09,865 - INFO - Clicked Clear button
-2026-05-24 10:23:09,940 - INFO - Price filter cleared — input boxes are empty
-2026-05-24 10:23:09,980 - INFO - Background: Browser is on the Laptops & Computers category page
-2026-05-24 10:23:12,181 - INFO - Entered Min=500, Max=2000
-2026-05-24 10:23:15,503 - INFO - Clicked Set button
-2026-05-24 10:23:15,524 - INFO - Products are visible after filter
-2026-05-24 10:23:15,524 - INFO - Products are visible on the page after applying price filter
-2026-05-24 10:23:15,609 - INFO - Screenshot saved at: reports/screenshots\products_visible_20260524_102315.png
-2026-05-24 10:23:15,636 - INFO - First product price: $949.0
-2026-05-24 10:23:15,636 - INFO - Price $949.0 is within range (500, 2000) CHECK
-2026-05-24 10:23:15,811 - INFO - Screenshot saved at: reports/screenshots\price_check_500_2000_20260524_102315.png
-2026-05-24 10:23:15,861 - INFO - Found 1 Add-to-Cart button(s)
-2026-05-24 10:23:15,935 - INFO - Clicked Add-to-Cart for the first product
-2026-05-24 10:25:15,986 - WARNING - Cart icon click timed out — page still loading: HTTPConnectionPool(host='localhost', port=63002): Read timed out. (read timeout=120)
-2026-05-24 10:25:15,986 - WARNING - Cart icon click raised a timeout exception as expected — page was still loading: HTTPConnectionPool(host='localhost', port=63002): Read timed out. (read timeout=120)
+2026-05-24 10:22:37,169 - INFO - Price filter cleared â€” input boxes are empty

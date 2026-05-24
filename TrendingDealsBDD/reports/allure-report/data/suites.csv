@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7067","Invalid price range triggers an alert when min is greater than max -- @1.1 ","","2026-05-24","passed","2026-05-24","","","",""
+"","6367","First product price is within the applied filter range of 100 to 1000","","2026-05-24","passed","2026-05-24","","","",""
+"","306340","End to end — filter products, add first product to cart and verify cart page","","2026-05-24","passed","2026-05-24","","","",""
+"","26411","Zero price range causes product grid to disappear -- @1.2 ","","2026-05-24","passed","2026-05-24","","","",""
+"","26213","Zero price range causes product grid to disappear -- @1.1 ","","2026-05-24","passed","2026-05-24","","","",""
+"","6172","Invalid price range triggers an alert when min is greater than max -- @1.2 ","","2026-05-24","passed","2026-05-24","","","",""

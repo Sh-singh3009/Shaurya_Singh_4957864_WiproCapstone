@@ -27,9 +27,7 @@ class CategoryPage:
         box.send_keys("\ue009a")  # Ctrl+A  — select all existing text
         box.send_keys("\ue017")  # Delete  — remove it
         box.clear()  # belt-and-braces clear
-        time.sleep(0.3)
         box.send_keys(str(value))
-        time.sleep(0.3)
         return box
 
     def _click_set_button(self):
@@ -37,7 +35,6 @@ class CategoryPage:
             EC.element_to_be_clickable(CategoryLocator.SET_PRICE_BUTTON)
         )
         set_button.click()
-        time.sleep(3)
         logger.info("Clicked Set button")
 
     def _click_clear_button(self):
