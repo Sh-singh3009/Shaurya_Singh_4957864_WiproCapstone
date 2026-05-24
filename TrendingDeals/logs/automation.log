@@ -895,3 +895,82 @@ Stacktrace:
 2026-05-22 12:15:13,936 - INFO - Product added successfully
 2026-05-22 12:15:14,513 - INFO - Screenshot saved at: reports/screenshots\product_added_20260522_121514.png
 2026-05-22 12:15:14,515 - INFO - Product added to cart for price range: 500 - 2000
+2026-05-22 14:13:41,565 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-22 14:13:41,566 - INFO - Selecting Region
+2026-05-22 14:13:42,209 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260522_141341.png
+2026-05-22 14:13:58,439 - INFO - United States Region Selected
+2026-05-22 14:13:58,439 - INFO - Opening BestBuy
+2026-05-22 14:13:58,439 - INFO - Verifying homepage title
+2026-05-22 14:13:58,607 - INFO - Homepage title Verified successfully
+2026-05-22 14:13:58,607 - INFO - BestBuy opened successfully
+2026-05-22 14:14:00,056 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260522_141359.png
+2026-05-22 14:14:00,057 - INFO - Opening Trending Deals page
+2026-05-22 14:14:00,057 - INFO - Clicking on see more in Trending Deals Section
+2026-05-22 14:14:30,394 - INFO - Screenshot saved at: reports/screenshots\test_cart_page_failed_20260522_141430.png
+2026-05-22 14:14:30,395 - ERROR - Cart page test failed
+2026-05-22 14:14:30,395 - ERROR - Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xecb593+105d3]
+	chromedriver!GetHandleVerifier [0xecb6c4+10704]
+	chromedriver!(No symbol) [0xcd1ea0]
+	chromedriver!(No symbol) [0xd1b28a]
+	chromedriver!(No symbol) [0xd1b52b]
+	chromedriver!(No symbol) [0xd5d052]
+	chromedriver!(No symbol) [0xd3d7c4]
+	chromedriver!(No symbol) [0xd5a936]
+	chromedriver!(No symbol) [0xd3d516]
+	chromedriver!(No symbol) [0xd108e9]
+	chromedriver!(No symbol) [0xd116a4]
+	chromedriver!GetHandleVerifier [0x1153014+298054]
+	chromedriver!GetHandleVerifier [0x114e603+293643]
+	chromedriver!GetHandleVerifier [0x116ea05+2b3a45]
+	chromedriver!GetHandleVerifier [0xee54e8+2a528]
+	chromedriver!GetHandleVerifier [0xeecd1d+31d5d]
+	chromedriver!GetHandleVerifier [0xed3e68+18ea8]
+	chromedriver!GetHandleVerifier [0xed4015+19055]
+	chromedriver!GetHandleVerifier [0xebd65f+269f]
+	KERNEL32!BaseThreadInitThunk [0x747d5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7734d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7734d7c1+231]
+
+2026-05-23 15:26:18,318 - INFO - --STARTING HOMEPAGE TEST--
+2026-05-23 15:26:18,319 - INFO - Selecting Region
+2026-05-23 15:26:19,040 - INFO - Screenshot saved at: reports/screenshots\Selecting_Region_20260523_152618.png
+2026-05-23 15:26:41,444 - INFO - United States Region Selected
+2026-05-23 15:26:41,444 - INFO - Opening BestBuy
+2026-05-23 15:26:41,444 - INFO - Verifying homepage title
+2026-05-23 15:26:41,642 - INFO - Homepage title Verified successfully
+2026-05-23 15:26:41,642 - INFO - BestBuy opened successfully
+2026-05-23 15:26:43,493 - INFO - Screenshot saved at: reports/screenshots\Website_opened_20260523_152643.png
+2026-05-23 15:26:43,493 - INFO - Opening Trending Deals page
+2026-05-23 15:26:43,493 - INFO - Clicking on see more in Trending Deals Section
+2026-05-23 15:26:59,741 - INFO - Clicked on see more in Trending Deals Section
+2026-05-23 15:26:59,742 - INFO - Verifying Trending Deals page title
+2026-05-23 15:26:59,888 - INFO - Trending Deals page title Verified successfully
+2026-05-23 15:27:00,931 - INFO - Screenshot saved at: reports/screenshots\Trending_deals_opened_20260523_152659.png
+2026-05-23 15:27:00,931 - INFO - ====================================
+2026-05-23 15:27:00,931 - INFO - --STARTING BASE PAGE TEST--
+2026-05-23 15:27:00,931 - INFO - Opening category: Laptops & Computers
+2026-05-23 15:27:00,931 - INFO - Check whether to click on Laptops & Computers or Laptops & Computers page already opened
+2026-05-23 15:27:01,718 - INFO - Laptops & Computers page already opened
+2026-05-23 15:27:01,922 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_already_opened_20260523_152701.png
+2026-05-23 15:27:01,931 - INFO - Laptops & Computers page opened successfully
+2026-05-23 15:27:02,418 - INFO - Screenshot saved at: reports/screenshots\Laptops_and_Computers_opened_20260523_152702.png
+2026-05-23 15:27:02,418 - INFO - --APPLYING PRICE FILTERS--
+2026-05-23 15:27:02,418 - INFO - Applying valid price filter
+2026-05-23 15:27:02,418 - INFO - Applying price filter Min:500 Max:2000
+2026-05-23 15:27:03,075 - INFO - Min Price:500 and Max Price:2000 entered successfully
+2026-05-23 15:27:03,512 - INFO - Screenshot saved at: reports/screenshots\price_filter_500_2000_20260523_152703.png
+2026-05-23 15:27:03,555 - INFO - Clicking set price button
+2026-05-23 15:27:03,814 - INFO - Clicked on Set button
+2026-05-23 15:27:03,956 - INFO - Valid price filter applied successfully
+2026-05-23 15:27:03,957 - INFO - --ADDING PRODUCT TO CART--
+2026-05-23 15:27:03,957 - INFO - Adding product to cart
+2026-05-23 15:27:37,260 - INFO - Found 1 add to cart buttons
+2026-05-23 15:27:37,273 - INFO - Clicking on Add to cart button
+2026-05-23 15:27:37,313 - INFO - Clicked on Add to cart button
+2026-05-23 15:27:37,313 - INFO - Product added successfully
+2026-05-23 15:27:37,888 - INFO - Screenshot saved at: reports/screenshots\product_added_20260523_152737.png
+2026-05-23 15:27:37,888 - INFO - --CART PAGE OPENING--
+2026-05-23 15:27:37,888 - INFO - Opening cart page
+2026-05-23 15:27:37,889 - INFO - Waiting for cart icon
